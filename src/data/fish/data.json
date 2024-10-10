@@ -6106,7 +6106,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 20,
+        "raw-fish": 4,
         "steel-plate": 5
       },
       "out": {
@@ -6126,7 +6126,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 1,
+        "raw-fish": 1,
         "iron-gear-wheel": 1
       },
       "out": {
@@ -6145,7 +6145,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 5,
+        "raw-fish": 3,
         "transport-belt": 1
       },
       "out": {
@@ -6164,8 +6164,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 4,
         "iron-gear-wheel": 10,
-        "fast-transport-belt": 1,
         "lubricant": 20
       },
       "out": {
@@ -6185,7 +6185,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 10,
+        "raw-fish": 2,
         "transport-belt": 5
       },
       "out": {
@@ -6205,7 +6205,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 40,
+        "raw-fish": 24,
         "underground-belt": 2
       },
       "out": {
@@ -6224,7 +6224,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 80,
+        "raw-fish": 48,
         "fast-underground-belt": 2,
         "lubricant": 40
       },
@@ -6245,8 +6245,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 1,
         "electronic-circuit": 5,
-        "iron-plate": 5,
         "transport-belt": 4
       },
       "out": {
@@ -6266,9 +6266,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "splitter": 1,
-        "iron-gear-wheel": 10,
-        "electronic-circuit": 10
+        "raw-fish": 6,
+        "electronic-circuit": 10,
+        "splitter": 1
       },
       "out": {
         "fast-splitter": 1
@@ -6286,9 +6286,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "fast-splitter": 1,
+        "raw-fish": 87,
         "iron-gear-wheel": 10,
-        "advanced-circuit": 10,
+        "fast-splitter": 1,
         "lubricant": 80
       },
       "out": {
@@ -6308,7 +6308,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 1,
+        "raw-fish": 1,
         "iron-gear-wheel": 1
       },
       "out": {
@@ -6327,9 +6327,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 1,
-        "iron-gear-wheel": 1,
-        "iron-plate": 1
+        "raw-fish": 2,
+        "iron-plate": 1,
+        "iron-gear-wheel": 1
       },
       "out": {
         "inserter": 1
@@ -6347,8 +6347,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 1,
         "iron-gear-wheel": 1,
-        "iron-plate": 1,
         "inserter": 1
       },
       "out": {
@@ -6368,8 +6368,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 1,
         "electronic-circuit": 2,
-        "iron-plate": 2,
         "inserter": 1
       },
       "out": {
@@ -6389,8 +6389,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "fast-inserter": 1,
-        "electronic-circuit": 4
+        "raw-fish": 5,
+        "fast-inserter": 1
       },
       "out": {
         "filter-inserter": 1
@@ -6409,7 +6409,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 15,
+        "raw-fish": 9,
         "electronic-circuit": 15,
         "advanced-circuit": 1,
         "fast-inserter": 1
@@ -6431,8 +6431,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "stack-inserter": 1,
-        "electronic-circuit": 5
+        "raw-fish": 6,
+        "stack-inserter": 1
       },
       "out": {
         "stack-filter-inserter": 1
@@ -6451,7 +6451,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "wood": 1,
+        "raw-fish": 1,
         "copper-cable": 2
       },
       "out": {
@@ -6470,9 +6470,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-stick": 4,
-        "steel-plate": 2,
-        "copper-plate": 2
+        "raw-fish": 3,
+        "copper-plate": 2,
+        "iron-stick": 4
       },
       "out": {
         "medium-electric-pole": 1
@@ -6491,9 +6491,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-stick": 8,
+        "raw-fish": 1,
         "steel-plate": 5,
-        "copper-plate": 5
+        "iron-stick": 8
       },
       "out": {
         "big-electric-pole": 1
@@ -6512,9 +6512,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 10,
-        "advanced-circuit": 5,
-        "copper-plate": 5
+        "raw-fish": 13,
+        "copper-plate": 5,
+        "advanced-circuit": 5
       },
       "out": {
         "substation": 1
@@ -6551,8 +6551,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "pipe": 10,
-        "iron-plate": 5
+        "raw-fish": 1,
+        "pipe": 10
       },
       "out": {
         "pipe-to-ground": 2
@@ -6570,9 +6570,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "engine-unit": 1,
+        "raw-fish": 1,
         "steel-plate": 1,
-        "pipe": 1
+        "engine-unit": 1
       },
       "out": {
         "pump": 1
@@ -6592,8 +6592,8 @@
       ],
       "in": {
         "stone": 1,
-        "iron-stick": 1,
-        "steel-plate": 1
+        "raw-fish": 2,
+        "iron-stick": 1
       },
       "out": {
         "rail": 2
@@ -6612,10 +6612,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 5,
+        "raw-fish": 6,
         "iron-plate": 6,
-        "iron-stick": 6,
-        "steel-plate": 3
+        "steel-plate": 3,
+        "iron-stick": 6
       },
       "out": {
         "train-stop": 1
@@ -6634,7 +6634,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 1,
+        "raw-fish": 2,
         "iron-plate": 5
       },
       "out": {
@@ -6654,7 +6654,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 1,
+        "raw-fish": 2,
         "iron-plate": 5
       },
       "out": {
@@ -6674,9 +6674,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "engine-unit": 20,
+        "raw-fish": 37,
         "electronic-circuit": 10,
-        "steel-plate": 30
+        "engine-unit": 20
       },
       "out": {
         "locomotive": 1
@@ -6695,7 +6695,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 10,
+        "raw-fish": 6,
         "iron-plate": 20,
         "steel-plate": 20
       },
@@ -6716,10 +6716,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 10,
+        "raw-fish": 11,
         "steel-plate": 16,
-        "pipe": 8,
-        "storage-tank": 1
+        "iron-gear-wheel": 10,
+        "pipe": 8
       },
       "out": {
         "fluid-wagon": 1
@@ -6738,11 +6738,11 @@
         "assembling-machine-3"
       ],
       "in": {
-        "engine-unit": 64,
+        "raw-fish": 49,
         "iron-gear-wheel": 10,
-        "steel-plate": 40,
-        "pipe": 16,
-        "advanced-circuit": 20
+        "advanced-circuit": 20,
+        "engine-unit": 64,
+        "pipe": 16
       },
       "out": {
         "artillery-wagon": 1
@@ -6761,9 +6761,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "engine-unit": 8,
+        "raw-fish": 7,
         "iron-plate": 20,
-        "steel-plate": 5
+        "engine-unit": 8
       },
       "out": {
         "car": 1
@@ -6782,10 +6782,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "engine-unit": 32,
-        "steel-plate": 50,
+        "raw-fish": 61,
         "iron-gear-wheel": 15,
-        "advanced-circuit": 10
+        "advanced-circuit": 10,
+        "engine-unit": 32
       },
       "out": {
         "tank": 1
@@ -6830,8 +6830,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "rocket-control-unit": 1,
-        "radar": 1
+        "raw-fish": 11,
+        "rocket-control-unit": 1
       },
       "out": {
         "spidertron-remote": 1
@@ -6850,7 +6850,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "flying-robot-frame": 1,
+        "raw-fish": 34,
         "advanced-circuit": 2
       },
       "out": {
@@ -6870,7 +6870,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "flying-robot-frame": 1,
+        "raw-fish": 34,
         "electronic-circuit": 2
       },
       "out": {
@@ -6890,9 +6890,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-chest": 1,
+        "raw-fish": 9,
         "electronic-circuit": 3,
-        "advanced-circuit": 1
+        "steel-chest": 1
       },
       "out": {
         "logistic-chest-active-provider": 1
@@ -6911,9 +6911,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-chest": 1,
+        "raw-fish": 9,
         "electronic-circuit": 3,
-        "advanced-circuit": 1
+        "steel-chest": 1
       },
       "out": {
         "logistic-chest-passive-provider": 1
@@ -6932,7 +6932,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-chest": 1,
+        "raw-fish": 10,
         "electronic-circuit": 3,
         "advanced-circuit": 1
       },
@@ -6953,9 +6953,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-chest": 1,
-        "electronic-circuit": 3,
-        "advanced-circuit": 1
+        "raw-fish": 4,
+        "advanced-circuit": 1,
+        "steel-chest": 1
       },
       "out": {
         "logistic-chest-buffer": 1
@@ -6974,9 +6974,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-chest": 1,
-        "electronic-circuit": 3,
-        "advanced-circuit": 1
+        "raw-fish": 4,
+        "advanced-circuit": 1,
+        "steel-chest": 1
       },
       "out": {
         "logistic-chest-requester": 1
@@ -6995,9 +6995,9 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 388,
         "steel-plate": 45,
-        "iron-gear-wheel": 45,
-        "advanced-circuit": 45
+        "iron-gear-wheel": 45
       },
       "out": {
         "roboport": 1
@@ -7016,9 +7016,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 1,
-        "copper-cable": 3,
-        "iron-plate": 1
+        "raw-fish": 1,
+        "iron-plate": 1,
+        "electronic-circuit": 1
       },
       "out": {
         "small-lamp": 1
@@ -7037,8 +7037,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 1,
-        "copper-cable": 1
+        "raw-fish": 1,
+        "electronic-circuit": 1
       },
       "out": {
         "red-wire": 1
@@ -7057,7 +7057,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 1,
+        "raw-fish": 2,
         "copper-cable": 1
       },
       "out": {
@@ -7077,8 +7077,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "copper-cable": 5,
-        "electronic-circuit": 5
+        "raw-fish": 6,
+        "copper-cable": 5
       },
       "out": {
         "arithmetic-combinator": 1
@@ -7097,7 +7097,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "copper-cable": 5,
+        "raw-fish": 1,
         "electronic-circuit": 5
       },
       "out": {
@@ -7117,7 +7117,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "copper-cable": 5,
+        "raw-fish": 1,
         "electronic-circuit": 2
       },
       "out": {
@@ -7137,8 +7137,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 1,
         "iron-plate": 5,
-        "copper-cable": 5,
         "electronic-circuit": 2
       },
       "out": {
@@ -7158,9 +7158,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 3,
-        "iron-stick": 4,
+        "raw-fish": 1,
         "copper-cable": 5,
+        "iron-stick": 4,
         "electronic-circuit": 4
       },
       "out": {
@@ -7197,8 +7197,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 1,
         "stone-brick": 5,
-        "iron-ore": 1,
         "water": 100
       },
       "out": {
@@ -7236,10 +7236,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "concrete": 20,
-        "iron-stick": 8,
+        "raw-fish": 1,
         "steel-plate": 1,
-        "water": 100
+        "iron-stick": 8,
+        "concrete": 20
       },
       "out": {
         "refined-concrete": 10
@@ -7296,9 +7296,9 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 2,
         "explosives": 10,
-        "grenade": 1,
-        "empty-barrel": 1
+        "grenade": 1
       },
       "out": {
         "cliff-explosives": 1
@@ -7317,7 +7317,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 2,
+        "raw-fish": 3,
         "iron-gear-wheel": 2
       },
       "out": {
@@ -7336,7 +7336,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "stone-furnace": 1,
+        "raw-fish": 2,
         "pipe": 4
       },
       "out": {
@@ -7355,9 +7355,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 8,
-        "pipe": 5,
-        "iron-plate": 10
+        "raw-fish": 2,
+        "iron-plate": 10,
+        "iron-gear-wheel": 8
       },
       "out": {
         "steam-engine": 1
@@ -7375,9 +7375,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 5,
-        "electronic-circuit": 15,
-        "copper-plate": 5
+        "raw-fish": 17,
+        "copper-plate": 5,
+        "steel-plate": 5
       },
       "out": {
         "solar-panel": 1
@@ -7396,8 +7396,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 2,
-        "battery": 5
+        "raw-fish": 43,
+        "iron-plate": 2
       },
       "out": {
         "accumulator": 1
@@ -7416,10 +7416,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "concrete": 500,
+        "raw-fish": 126,
+        "copper-plate": 500,
         "steel-plate": 500,
-        "advanced-circuit": 500,
-        "copper-plate": 500
+        "advanced-circuit": 500
       },
       "out": {
         "nuclear-reactor": 1
@@ -7438,7 +7438,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 10,
+        "raw-fish": 13,
         "copper-plate": 20
       },
       "out": {
@@ -7458,7 +7458,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 10,
+        "raw-fish": 13,
         "copper-plate": 100,
         "pipe": 10
       },
@@ -7479,9 +7479,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 50,
+        "raw-fish": 8,
         "copper-plate": 50,
-        "pipe": 20
+        "iron-gear-wheel": 50
       },
       "out": {
         "steam-turbine": 1
@@ -7500,9 +7500,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 3,
-        "stone-furnace": 1,
-        "iron-plate": 3
+        "raw-fish": 2,
+        "iron-plate": 3,
+        "iron-gear-wheel": 3
       },
       "out": {
         "burner-mining-drill": 1
@@ -7520,9 +7520,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 3,
+        "raw-fish": 2,
         "iron-gear-wheel": 5,
-        "iron-plate": 10
+        "electronic-circuit": 3
       },
       "out": {
         "electric-mining-drill": 1
@@ -7540,9 +7540,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 2,
-        "pipe": 1,
-        "iron-gear-wheel": 1
+        "raw-fish": 1,
+        "iron-gear-wheel": 1,
+        "electronic-circuit": 2
       },
       "out": {
         "offshore-pump": 1
@@ -7560,10 +7560,10 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 4,
         "steel-plate": 5,
         "iron-gear-wheel": 10,
-        "electronic-circuit": 5,
-        "pipe": 10
+        "electronic-circuit": 5
       },
       "out": {
         "pumpjack": 1
@@ -7600,7 +7600,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 6,
+        "raw-fish": 8,
         "stone-brick": 10
       },
       "out": {
@@ -7620,7 +7620,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 10,
+        "raw-fish": 13,
         "advanced-circuit": 5,
         "stone-brick": 10
       },
@@ -7641,9 +7641,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 3,
-        "iron-gear-wheel": 5,
-        "iron-plate": 9
+        "raw-fish": 3,
+        "iron-plate": 9,
+        "electronic-circuit": 3
       },
       "out": {
         "assembling-machine-1": 1
@@ -7662,8 +7662,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 4,
         "steel-plate": 2,
-        "electronic-circuit": 3,
         "iron-gear-wheel": 5,
         "assembling-machine-1": 1
       },
@@ -7684,7 +7684,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "speed-module": 4,
+        "raw-fish": 202,
         "assembling-machine-2": 2
       },
       "out": {
@@ -7704,11 +7704,11 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 15,
+        "raw-fish": 19,
         "iron-gear-wheel": 10,
-        "stone-brick": 10,
         "electronic-circuit": 10,
-        "pipe": 10
+        "pipe": 10,
+        "stone-brick": 10
       },
       "out": {
         "oil-refinery": 1
@@ -7727,8 +7727,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 3,
         "steel-plate": 5,
-        "iron-gear-wheel": 5,
         "electronic-circuit": 5,
         "pipe": 5
       },
@@ -7749,10 +7749,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "concrete": 100,
+        "raw-fish": 862,
         "steel-plate": 50,
-        "advanced-circuit": 100,
-        "iron-gear-wheel": 100
+        "iron-gear-wheel": 100,
+        "concrete": 100
       },
       "out": {
         "centrifuge": 1
@@ -7771,9 +7771,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 10,
+        "raw-fish": 3,
         "iron-gear-wheel": 10,
-        "transport-belt": 4
+        "electronic-circuit": 10
       },
       "out": {
         "lab": 1
@@ -7791,10 +7791,10 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 13,
+        "copper-cable": 10,
         "electronic-circuit": 20,
-        "advanced-circuit": 20,
-        "steel-plate": 10,
-        "copper-cable": 10
+        "advanced-circuit": 20
       },
       "out": {
         "beacon": 1
@@ -7813,7 +7813,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "advanced-circuit": 5,
+        "raw-fish": 44,
         "electronic-circuit": 5
       },
       "out": {
@@ -7833,9 +7833,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "speed-module": 4,
+        "raw-fish": 208,
         "advanced-circuit": 5,
-        "processing-unit": 5
+        "speed-module": 4
       },
       "out": {
         "speed-module-2": 1
@@ -7854,7 +7854,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "speed-module-2": 5,
+        "raw-fish": 2276,
         "advanced-circuit": 5,
         "processing-unit": 5
       },
@@ -7875,7 +7875,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "advanced-circuit": 5,
+        "raw-fish": 44,
         "electronic-circuit": 5
       },
       "out": {
@@ -7895,7 +7895,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "effectivity-module": 4,
+        "raw-fish": 202,
         "advanced-circuit": 5,
         "processing-unit": 5
       },
@@ -7916,9 +7916,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "effectivity-module-2": 5,
+        "raw-fish": 208,
         "advanced-circuit": 5,
-        "processing-unit": 5
+        "effectivity-module-2": 5
       },
       "out": {
         "effectivity-module-3": 1
@@ -7937,7 +7937,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "advanced-circuit": 5,
+        "raw-fish": 44,
         "electronic-circuit": 5
       },
       "out": {
@@ -7957,7 +7957,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "productivity-module": 4,
+        "raw-fish": 202,
         "advanced-circuit": 5,
         "processing-unit": 5
       },
@@ -7978,9 +7978,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "productivity-module-2": 5,
+        "raw-fish": 208,
         "advanced-circuit": 5,
-        "processing-unit": 5
+        "productivity-module-2": 5
       },
       "out": {
         "productivity-module-3": 1
@@ -7999,11 +7999,11 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 1969,
         "steel-plate": 1000,
-        "concrete": 1000,
-        "pipe": 100,
         "processing-unit": 200,
-        "electric-engine-unit": 200
+        "pipe": 100,
+        "concrete": 1000
       },
       "out": {
         "rocket-silo": 1
@@ -8022,12 +8022,12 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 2706,
+        "processing-unit": 100,
         "low-density-structure": 100,
         "solar-panel": 100,
         "accumulator": 100,
-        "radar": 5,
-        "processing-unit": 100,
-        "rocket-fuel": 50
+        "radar": 5
       },
       "out": {
         "satellite": 1
@@ -8044,7 +8044,7 @@
         "chemical-plant"
       ],
       "in": {
-        "sulfur": 5,
+        "raw-fish": 19,
         "iron-plate": 1,
         "water": 100
       },
@@ -8080,7 +8080,7 @@
         "oil-refinery"
       ],
       "in": {
-        "water": 50,
+        "raw-fish": 1,
         "crude-oil": 100
       },
       "out": {
@@ -8101,8 +8101,8 @@
       ],
       "in": {
         "coal": 10,
-        "heavy-oil": 25,
-        "steam": 50
+        "raw-fish": 1,
+        "heavy-oil": 25
       },
       "out": {
         "heavy-oil": 90,
@@ -8149,7 +8149,7 @@
         "chemical-plant"
       ],
       "in": {
-        "water": 30,
+        "raw-fish": 1,
         "heavy-oil": 40
       },
       "out": {
@@ -8167,8 +8167,8 @@
         "chemical-plant"
       ],
       "in": {
-        "water": 30,
-        "light-oil": 30
+        "raw-fish": 3,
+        "water": 30
       },
       "out": {
         "petroleum-gas": 20
@@ -8326,8 +8326,8 @@
         "chemical-plant"
       ],
       "in": {
-        "petroleum-gas": 20,
-        "coal": 1
+        "raw-fish": 1,
+        "petroleum-gas": 20
       },
       "out": {
         "plastic-bar": 2
@@ -8344,8 +8344,8 @@
         "chemical-plant"
       ],
       "in": {
-        "water": 30,
-        "petroleum-gas": 30
+        "raw-fish": 8,
+        "water": 30
       },
       "out": {
         "sulfur": 2
@@ -8362,7 +8362,7 @@
         "chemical-plant"
       ],
       "in": {
-        "sulfuric-acid": 20,
+        "raw-fish": 8,
         "iron-plate": 1,
         "copper-plate": 1
       },
@@ -8381,8 +8381,8 @@
         "chemical-plant"
       ],
       "in": {
+        "raw-fish": 1,
         "sulfur": 1,
-        "coal": 1,
         "water": 10
       },
       "out": {
@@ -8493,8 +8493,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 1,
-        "copper-cable": 3
+        "raw-fish": 1,
+        "iron-plate": 1
       },
       "out": {
         "electronic-circuit": 1
@@ -8512,7 +8512,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 2,
+        "raw-fish": 3,
         "plastic-bar": 2,
         "copper-cable": 4
       },
@@ -8532,8 +8532,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 18,
         "electronic-circuit": 20,
-        "advanced-circuit": 2,
         "sulfuric-acid": 5
       },
       "out": {
@@ -8553,7 +8553,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 1,
+        "raw-fish": 2,
         "iron-gear-wheel": 1,
         "pipe": 2
       },
@@ -8573,9 +8573,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "engine-unit": 1,
-        "lubricant": 15,
-        "electronic-circuit": 2
+        "raw-fish": 3,
+        "electronic-circuit": 2,
+        "engine-unit": 1
       },
       "out": {
         "electric-engine-unit": 1
@@ -8594,10 +8594,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electric-engine-unit": 1,
-        "battery": 2,
+        "raw-fish": 17,
         "steel-plate": 1,
-        "electronic-circuit": 3
+        "electronic-circuit": 3,
+        "electric-engine-unit": 1
       },
       "out": {
         "flying-robot-frame": 1
@@ -8616,7 +8616,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "processing-unit": 1,
+        "raw-fish": 42,
         "speed-module": 1
       },
       "out": {
@@ -8636,8 +8636,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 4,
         "steel-plate": 2,
-        "copper-plate": 20,
         "plastic-bar": 5
       },
       "out": {
@@ -8656,7 +8656,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "solid-fuel": 10,
+        "raw-fish": 51,
         "light-oil": 10
       },
       "out": {
@@ -8674,9 +8674,9 @@
         "rocket-silo"
       ],
       "in": {
+        "raw-fish": 542,
         "rocket-control-unit": 10,
-        "low-density-structure": 10,
-        "rocket-fuel": 10
+        "low-density-structure": 10
       },
       "out": {
         "rocket-part": 1
@@ -8693,8 +8693,8 @@
         "centrifuge"
       ],
       "in": {
-        "uranium-235": 1,
-        "rocket-fuel": 1
+        "raw-fish": 55,
+        "uranium-235": 1
       },
       "out": {
         "nuclear-fuel": 1
@@ -8730,8 +8730,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 5,
         "iron-plate": 10,
-        "uranium-235": 1,
         "uranium-238": 19
       },
       "out": {
@@ -8791,6 +8791,7 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 2,
         "copper-plate": 1,
         "iron-gear-wheel": 1
       },
@@ -8810,8 +8811,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "inserter": 1,
-        "transport-belt": 1
+        "raw-fish": 4,
+        "transport-belt": 1,
+        "inserter": 1
       },
       "out": {
         "logistic-science-pack": 1
@@ -8830,6 +8832,7 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 6,
         "piercing-rounds-magazine": 1,
         "grenade": 1,
         "stone-wall": 2
@@ -8851,9 +8854,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "engine-unit": 2,
+        "raw-fish": 21,
+        "sulfur": 1,
         "advanced-circuit": 3,
-        "sulfur": 1
+        "engine-unit": 2
       },
       "out": {
         "chemical-science-pack": 2
@@ -8872,9 +8876,10 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 47,
+        "rail": 30,
         "electric-furnace": 1,
-        "productivity-module": 1,
-        "rail": 30
+        "productivity-module": 1
       },
       "out": {
         "production-science-pack": 3
@@ -8893,9 +8898,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "low-density-structure": 3,
+        "raw-fish": 60,
         "processing-unit": 2,
-        "flying-robot-frame": 1
+        "flying-robot-frame": 1,
+        "low-density-structure": 3
       },
       "out": {
         "utility-science-pack": 3
@@ -8932,8 +8938,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "copper-plate": 5,
-        "iron-plate": 5
+        "raw-fish": 1,
+        "copper-plate": 5
       },
       "out": {
         "pistol": 1
@@ -8951,9 +8957,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 10,
-        "copper-plate": 5,
-        "iron-plate": 10
+        "raw-fish": 1,
+        "iron-plate": 10,
+        "iron-gear-wheel": 10
       },
       "out": {
         "submachine-gun": 1
@@ -8972,10 +8978,10 @@
         "assembling-machine-3"
       ],
       "in": {
+        "wood": 5,
+        "raw-fish": 3,
         "iron-plate": 15,
-        "iron-gear-wheel": 5,
-        "copper-plate": 10,
-        "wood": 5
+        "copper-plate": 10
       },
       "out": {
         "shotgun": 1
@@ -8994,10 +9000,10 @@
         "assembling-machine-3"
       ],
       "in": {
+        "wood": 10,
+        "raw-fish": 2,
         "steel-plate": 15,
-        "iron-gear-wheel": 5,
-        "copper-plate": 10,
-        "wood": 10
+        "iron-gear-wheel": 5
       },
       "out": {
         "combat-shotgun": 1
@@ -9016,7 +9022,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 5,
+        "raw-fish": 1,
         "iron-gear-wheel": 5,
         "electronic-circuit": 5
       },
@@ -9037,7 +9043,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 5,
+        "raw-fish": 7,
         "iron-gear-wheel": 10
       },
       "out": {
@@ -9057,7 +9063,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 1,
+        "raw-fish": 2,
         "explosives": 2
       },
       "out": {
@@ -9095,9 +9101,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "firearm-magazine": 1,
+        "raw-fish": 1,
         "steel-plate": 1,
-        "copper-plate": 5
+        "firearm-magazine": 1
       },
       "out": {
         "piercing-rounds-magazine": 1
@@ -9116,7 +9122,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "piercing-rounds-magazine": 1,
+        "raw-fish": 4,
         "uranium-238": 1
       },
       "out": {
@@ -9136,7 +9142,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "copper-plate": 2,
+        "raw-fish": 1,
         "iron-plate": 2
       },
       "out": {
@@ -9156,9 +9162,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "shotgun-shell": 2,
-        "copper-plate": 5,
-        "steel-plate": 2
+        "raw-fish": 1,
+        "steel-plate": 2,
+        "shotgun-shell": 2
       },
       "out": {
         "piercing-shotgun-shell": 1
@@ -9177,8 +9183,8 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 6,
         "steel-plate": 2,
-        "plastic-bar": 2,
         "explosives": 1
       },
       "out": {
@@ -9198,7 +9204,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 2,
+        "raw-fish": 3,
         "plastic-bar": 2,
         "explosives": 2
       },
@@ -9219,7 +9225,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "cannon-shell": 1,
+        "raw-fish": 11,
         "uranium-238": 1
       },
       "out": {
@@ -9239,8 +9245,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "explosive-cannon-shell": 1,
-        "uranium-238": 1
+        "raw-fish": 1,
+        "explosive-cannon-shell": 1
       },
       "out": {
         "explosive-uranium-cannon-shell": 1
@@ -9259,9 +9265,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "explosive-cannon-shell": 4,
-        "radar": 1,
-        "explosives": 8
+        "raw-fish": 11,
+        "explosives": 8,
+        "explosive-cannon-shell": 4
       },
       "out": {
         "artillery-shell": 1
@@ -9280,9 +9286,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 1,
-        "explosives": 1,
-        "iron-plate": 2
+        "raw-fish": 3,
+        "iron-plate": 2,
+        "electronic-circuit": 1
       },
       "out": {
         "rocket": 1
@@ -9301,7 +9307,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "rocket": 1,
+        "raw-fish": 5,
         "explosives": 2
       },
       "out": {
@@ -9321,7 +9327,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "rocket-control-unit": 10,
+        "raw-fish": 950,
         "explosives": 10,
         "uranium-235": 30
       },
@@ -9340,8 +9346,8 @@
         "chemical-plant"
       ],
       "in": {
-        "steel-plate": 5,
-        "crude-oil": 100
+        "raw-fish": 10,
+        "steel-plate": 5
       },
       "out": {
         "flamethrower-ammo": 1
@@ -9360,8 +9366,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-plate": 5,
-        "coal": 10
+        "raw-fish": 2,
+        "iron-plate": 5
       },
       "out": {
         "grenade": 1
@@ -9380,9 +9386,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "grenade": 7,
-        "explosives": 5,
-        "steel-plate": 5
+        "raw-fish": 11,
+        "steel-plate": 5,
+        "grenade": 7
       },
       "out": {
         "cluster-grenade": 1
@@ -9401,9 +9407,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 3,
-        "electronic-circuit": 3,
-        "coal": 10
+        "coal": 10,
+        "raw-fish": 4,
+        "steel-plate": 3
       },
       "out": {
         "poison-capsule": 1
@@ -9422,9 +9428,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 2,
-        "electronic-circuit": 2,
-        "coal": 5
+        "coal": 5,
+        "raw-fish": 3,
+        "steel-plate": 2
       },
       "out": {
         "slowdown-capsule": 1
@@ -9443,9 +9449,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "piercing-rounds-magazine": 3,
-        "electronic-circuit": 3,
-        "iron-gear-wheel": 3
+        "raw-fish": 12,
+        "iron-gear-wheel": 3,
+        "electronic-circuit": 3
       },
       "out": {
         "defender-capsule": 1
@@ -9464,7 +9470,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "defender-capsule": 4,
+        "raw-fish": 71,
         "advanced-circuit": 3
       },
       "out": {
@@ -9484,7 +9490,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "distractor-capsule": 4,
+        "raw-fish": 392,
         "speed-module": 1
       },
       "out": {
@@ -9522,7 +9528,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "copper-plate": 100,
+        "raw-fish": 20,
         "steel-plate": 50
       },
       "out": {
@@ -9542,7 +9548,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "advanced-circuit": 30,
+        "raw-fish": 259,
         "steel-plate": 50
       },
       "out": {
@@ -9562,9 +9568,9 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 49,
         "processing-unit": 40,
-        "electric-engine-unit": 20,
-        "steel-plate": 40
+        "electric-engine-unit": 20
       },
       "out": {
         "power-armor": 1
@@ -9583,11 +9589,11 @@
         "assembling-machine-3"
       ],
       "in": {
-        "effectivity-module-2": 25,
-        "speed-module-2": 25,
+        "raw-fish": 595,
         "processing-unit": 60,
         "electric-engine-unit": 40,
-        "low-density-structure": 30
+        "speed-module-2": 25,
+        "effectivity-module-2": 25
       },
       "out": {
         "power-armor-mk2": 1
@@ -9606,9 +9612,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "solar-panel": 1,
+        "raw-fish": 7,
         "advanced-circuit": 2,
-        "steel-plate": 5
+        "solar-panel": 1
       },
       "out": {
         "solar-panel-equipment": 1
@@ -9627,8 +9633,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "processing-unit": 200,
-        "low-density-structure": 50
+        "raw-fish": 992,
+        "processing-unit": 200
       },
       "out": {
         "fusion-reactor-equipment": 1
@@ -9647,8 +9653,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "battery": 5,
-        "steel-plate": 10
+        "raw-fish": 13,
+        "battery": 5
       },
       "out": {
         "battery-equipment": 1
@@ -9667,7 +9673,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "battery-equipment": 10,
+        "raw-fish": 554,
         "processing-unit": 15,
         "low-density-structure": 5
       },
@@ -9688,8 +9694,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "advanced-circuit": 5,
-        "steel-plate": 10
+        "raw-fish": 13,
+        "advanced-circuit": 5
       },
       "out": {
         "belt-immunity-equipment": 1
@@ -9708,9 +9714,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "processing-unit": 10,
-        "electric-engine-unit": 30,
-        "steel-plate": 20
+        "raw-fish": 296,
+        "steel-plate": 20,
+        "processing-unit": 10
       },
       "out": {
         "exoskeleton-equipment": 1
@@ -9729,10 +9735,10 @@
         "assembling-machine-3"
       ],
       "in": {
-        "advanced-circuit": 10,
-        "iron-gear-wheel": 40,
+        "raw-fish": 87,
         "steel-plate": 20,
-        "battery": 45
+        "battery": 45,
+        "iron-gear-wheel": 40
       },
       "out": {
         "personal-roboport-equipment": 1
@@ -9751,9 +9757,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "personal-roboport-equipment": 5,
-        "processing-unit": 100,
-        "low-density-structure": 20
+        "raw-fish": 4153,
+        "low-density-structure": 20,
+        "personal-roboport-equipment": 5
       },
       "out": {
         "personal-roboport-mk2-equipment": 1
@@ -9772,8 +9778,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "advanced-circuit": 5,
-        "steel-plate": 10
+        "raw-fish": 13,
+        "advanced-circuit": 5
       },
       "out": {
         "night-vision-equipment": 1
@@ -9792,8 +9798,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "advanced-circuit": 5,
-        "steel-plate": 10
+        "raw-fish": 13,
+        "advanced-circuit": 5
       },
       "out": {
         "energy-shield-equipment": 1
@@ -9812,9 +9818,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "energy-shield-equipment": 10,
-        "processing-unit": 5,
-        "low-density-structure": 5
+        "raw-fish": 208,
+        "low-density-structure": 5,
+        "energy-shield-equipment": 10
       },
       "out": {
         "energy-shield-mk2-equipment": 1
@@ -9833,7 +9839,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "processing-unit": 20,
+        "raw-fish": 831,
         "low-density-structure": 5,
         "laser-turret": 5
       },
@@ -9854,7 +9860,7 @@
         "assembling-machine-3"
       ],
       "in": {
-        "processing-unit": 5,
+        "raw-fish": 208,
         "steel-plate": 20,
         "laser-turret": 10
       },
@@ -9913,9 +9919,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "stone-wall": 1,
-        "steel-plate": 2,
-        "electronic-circuit": 2
+        "raw-fish": 3,
+        "electronic-circuit": 2,
+        "stone-wall": 1
       },
       "out": {
         "gate": 1
@@ -9934,9 +9940,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "iron-gear-wheel": 10,
-        "copper-plate": 10,
-        "iron-plate": 20
+        "raw-fish": 2,
+        "iron-plate": 20,
+        "iron-gear-wheel": 10
       },
       "out": {
         "gun-turret": 1
@@ -9955,9 +9961,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "steel-plate": 20,
-        "electronic-circuit": 20,
-        "battery": 12
+        "raw-fish": 25,
+        "battery": 12,
+        "electronic-circuit": 20
       },
       "out": {
         "laser-turret": 1
@@ -9976,9 +9982,9 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 4,
         "steel-plate": 30,
         "iron-gear-wheel": 15,
-        "pipe": 10,
         "engine-unit": 5
       },
       "out": {
@@ -9998,10 +10004,10 @@
         "assembling-machine-3"
       ],
       "in": {
+        "raw-fish": 173,
         "steel-plate": 60,
-        "concrete": 60,
         "iron-gear-wheel": 40,
-        "advanced-circuit": 20
+        "concrete": 60
       },
       "out": {
         "artillery-turret": 1
@@ -10020,8 +10026,8 @@
         "assembling-machine-3"
       ],
       "in": {
-        "processing-unit": 1,
-        "radar": 1
+        "raw-fish": 11,
+        "processing-unit": 1
       },
       "out": {
         "artillery-targeting-remote": 1
@@ -10040,9 +10046,9 @@
         "assembling-machine-3"
       ],
       "in": {
-        "electronic-circuit": 5,
-        "iron-gear-wheel": 5,
-        "iron-plate": 10
+        "raw-fish": 6,
+        "iron-plate": 10,
+        "iron-gear-wheel": 5
       },
       "out": {
         "radar": 1
@@ -10092,108 +10098,6 @@
       },
       "producers": [
         "heat-exchanger"
-      ]
-    },
-    {
-      "id": "iron-ore",
-      "name": "Iron ore",
-      "category": "intermediate-products",
-      "row": 0,
-      "time": 1,
-      "in": {},
-      "out": {
-        "iron-ore": 1
-      },
-      "cost": 100,
-      "isMining": true,
-      "producers": [
-        "burner-mining-drill",
-        "electric-mining-drill"
-      ]
-    },
-    {
-      "id": "copper-ore",
-      "name": "Copper ore",
-      "category": "intermediate-products",
-      "row": 0,
-      "time": 1,
-      "in": {},
-      "out": {
-        "copper-ore": 1
-      },
-      "cost": 100,
-      "isMining": true,
-      "producers": [
-        "burner-mining-drill",
-        "electric-mining-drill"
-      ]
-    },
-    {
-      "id": "coal",
-      "name": "Coal",
-      "category": "intermediate-products",
-      "row": 0,
-      "time": 1,
-      "in": {},
-      "out": {
-        "coal": 1
-      },
-      "cost": 100,
-      "isMining": true,
-      "producers": [
-        "burner-mining-drill",
-        "electric-mining-drill"
-      ]
-    },
-    {
-      "id": "stone",
-      "name": "Stone",
-      "category": "intermediate-products",
-      "row": 0,
-      "time": 1,
-      "in": {},
-      "out": {
-        "stone": 1
-      },
-      "cost": 100,
-      "isMining": true,
-      "producers": [
-        "burner-mining-drill",
-        "electric-mining-drill"
-      ]
-    },
-    {
-      "id": "uranium-ore",
-      "name": "Uranium ore",
-      "category": "intermediate-products",
-      "row": 0,
-      "time": 2,
-      "in": {
-        "sulfuric-acid": 1
-      },
-      "out": {
-        "uranium-ore": 1
-      },
-      "cost": 100,
-      "isMining": true,
-      "producers": [
-        "electric-mining-drill"
-      ]
-    },
-    {
-      "id": "crude-oil",
-      "name": "Crude oil",
-      "category": "fluids",
-      "row": 0,
-      "time": 1,
-      "in": {},
-      "out": {
-        "crude-oil": 10
-      },
-      "cost": 10,
-      "isMining": true,
-      "producers": [
-        "pumpjack"
       ]
     },
     {
@@ -14072,6 +13976,6010 @@
       "isTechnology": true,
       "icon": "follower-robot-count-1",
       "iconText": "7"
+    },
+    {
+      "id": "iron-ore-from-raw-fish",
+      "name": "iron-ore from raw fish",
+      "category": "intermediate-products",
+      "row": 0,
+      "time": 6,
+      "producers": [
+        "stone-furnace",
+        "steel-furnace",
+        "electric-furnace"
+      ],
+      "in": {
+        "raw-fish": 2
+      },
+      "out": {
+        "iron-ore": 1
+      }
+    },
+    {
+      "id": "copper-ore-from-raw-fish",
+      "name": "copper-ore from raw fish",
+      "category": "intermediate-products",
+      "row": 0,
+      "time": 6,
+      "producers": [
+        "stone-furnace",
+        "steel-furnace",
+        "electric-furnace"
+      ],
+      "in": {
+        "raw-fish": 2
+      },
+      "out": {
+        "copper-ore": 1
+      }
+    },
+    {
+      "id": "uranium-ore-from-raw-fish",
+      "name": "uranium-ore from raw fish",
+      "category": "intermediate-products",
+      "row": 0,
+      "time": 6,
+      "producers": [
+        "stone-furnace",
+        "steel-furnace",
+        "electric-furnace"
+      ],
+      "in": {
+        "raw-fish": 2
+      },
+      "out": {
+        "uranium-ore": 1
+      }
+    },
+    {
+      "id": "coal-from-raw-fish",
+      "name": "coal from raw fish",
+      "category": "intermediate-products",
+      "row": 0,
+      "time": 6,
+      "producers": [
+        "stone-furnace",
+        "steel-furnace",
+        "electric-furnace"
+      ],
+      "in": {
+        "raw-fish": 2
+      },
+      "out": {
+        "coal": 1
+      }
+    },
+    {
+      "id": "stone-from-raw-fish",
+      "name": "stone from raw fish",
+      "category": "intermediate-products",
+      "row": 0,
+      "time": 6,
+      "producers": [
+        "stone-furnace",
+        "steel-furnace",
+        "electric-furnace"
+      ],
+      "in": {
+        "raw-fish": 2
+      },
+      "out": {
+        "stone": 1
+      }
+    },
+    {
+      "id": "crude-oil-from-raw-fish",
+      "name": "crude-oil from raw fish",
+      "category": "intermediate-products",
+      "row": 0,
+      "time": 6,
+      "producers": [
+        "oil-refinery"
+      ],
+      "in": {
+        "raw-fish": 2
+      },
+      "out": {
+        "crude-oil": 20
+      }
+    },
+    {
+      "id": "unassemble-refined-concrete",
+      "name": "unassemble-refined-concrete",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "refined-concrete": 1
+      },
+      "out": {
+        "water": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "concrete-technology"
+    },
+    {
+      "id": "unassemble-flamethrower-ammo",
+      "name": "unassemble-flamethrower-ammo",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "flamethrower-ammo": 1
+      },
+      "out": {
+        "crude-oil": 200
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "flamethrower-technology"
+    },
+    {
+      "id": "unassemble-electric-engine-unit",
+      "name": "unassemble-electric-engine-unit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "electric-engine-unit": 1
+      },
+      "out": {
+        "lubricant": 45
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "electric-engine"
+    },
+    {
+      "id": "unassemble-explosives",
+      "name": "unassemble-explosives",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "explosives": 1
+      },
+      "out": {
+        "coal": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "explosives-technology"
+    },
+    {
+      "id": "unassemble-plastic-bar",
+      "name": "unassemble-plastic-bar",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "plastic-bar": 1
+      },
+      "out": {
+        "coal": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "plastics"
+    },
+    {
+      "id": "unassemble-grenade",
+      "name": "unassemble-grenade",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "grenade": 1
+      },
+      "out": {
+        "coal": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military-2"
+    },
+    {
+      "id": "unassemble-electronic-circuit",
+      "name": "unassemble-electronic-circuit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "electronic-circuit": 1
+      },
+      "out": {
+        "copper-cable": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-red-wire",
+      "name": "unassemble-red-wire",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "red-wire": 1
+      },
+      "out": {
+        "copper-cable": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "unassemble-small-lamp",
+      "name": "unassemble-small-lamp",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "small-lamp": 1
+      },
+      "out": {
+        "copper-cable": 9
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "optics"
+    },
+    {
+      "id": "unassemble-constant-combinator",
+      "name": "unassemble-constant-combinator",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "constant-combinator": 1
+      },
+      "out": {
+        "copper-cable": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "unassemble-power-switch",
+      "name": "unassemble-power-switch",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "power-switch": 1
+      },
+      "out": {
+        "copper-cable": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "unassemble-decider-combinator",
+      "name": "unassemble-decider-combinator",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "decider-combinator": 1
+      },
+      "out": {
+        "copper-cable": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "unassemble-shotgun-shell",
+      "name": "unassemble-shotgun-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "shotgun-shell": 1
+      },
+      "out": {
+        "copper-plate": 4
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military"
+    },
+    {
+      "id": "unassemble-piercing-rounds-magazine",
+      "name": "unassemble-piercing-rounds-magazine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "piercing-rounds-magazine": 1
+      },
+      "out": {
+        "copper-plate": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military-2"
+    },
+    {
+      "id": "unassemble-piercing-shotgun-shell",
+      "name": "unassemble-piercing-shotgun-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "piercing-shotgun-shell": 1
+      },
+      "out": {
+        "copper-plate": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military-4"
+    },
+    {
+      "id": "unassemble-big-electric-pole",
+      "name": "unassemble-big-electric-pole",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "big-electric-pole": 1
+      },
+      "out": {
+        "copper-plate": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "electric-energy-distribution-1"
+    },
+    {
+      "id": "unassemble-submachine-gun",
+      "name": "unassemble-submachine-gun",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "submachine-gun": 1
+      },
+      "out": {
+        "copper-plate": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military"
+    },
+    {
+      "id": "unassemble-gun-turret",
+      "name": "unassemble-gun-turret",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "gun-turret": 1
+      },
+      "out": {
+        "copper-plate": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "gun-turret-technology"
+    },
+    {
+      "id": "unassemble-low-density-structure",
+      "name": "unassemble-low-density-structure",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "low-density-structure": 1
+      },
+      "out": {
+        "copper-plate": 60
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "low-density-structure-technology"
+    },
+    {
+      "id": "unassemble-combat-shotgun",
+      "name": "unassemble-combat-shotgun",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "combat-shotgun": 1
+      },
+      "out": {
+        "copper-plate": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military-3"
+    },
+    {
+      "id": "unassemble-heavy-armor",
+      "name": "unassemble-heavy-armor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "heavy-armor": 1
+      },
+      "out": {
+        "copper-plate": 200
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "heavy-armor-technology"
+    },
+    {
+      "id": "unassemble-concrete",
+      "name": "unassemble-concrete",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "concrete": 1
+      },
+      "out": {
+        "iron-ore": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "concrete-technology"
+    },
+    {
+      "id": "unassemble-transport-belt",
+      "name": "unassemble-transport-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "transport-belt": 1
+      },
+      "out": {
+        "iron-plate": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-burner-inserter",
+      "name": "unassemble-burner-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "burner-inserter": 1
+      },
+      "out": {
+        "iron-plate": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-underground-belt",
+      "name": "unassemble-underground-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "underground-belt": 1
+      },
+      "out": {
+        "iron-plate": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistics-technology"
+    },
+    {
+      "id": "unassemble-pipe-to-ground",
+      "name": "unassemble-pipe-to-ground",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "pipe-to-ground": 1
+      },
+      "out": {
+        "iron-plate": 5
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-pistol",
+      "name": "unassemble-pistol",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "pistol": 1
+      },
+      "out": {
+        "iron-plate": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-long-handed-inserter",
+      "name": "unassemble-long-handed-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "long-handed-inserter": 1
+      },
+      "out": {
+        "iron-plate": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "automation"
+    },
+    {
+      "id": "unassemble-fast-inserter",
+      "name": "unassemble-fast-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "fast-inserter": 1
+      },
+      "out": {
+        "iron-plate": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "fast-inserter-technology"
+    },
+    {
+      "id": "unassemble-programmable-speaker",
+      "name": "unassemble-programmable-speaker",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "programmable-speaker": 1
+      },
+      "out": {
+        "iron-plate": 12
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "unassemble-electric-mining-drill",
+      "name": "unassemble-electric-mining-drill",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "electric-mining-drill": 1
+      },
+      "out": {
+        "iron-plate": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-splitter",
+      "name": "unassemble-splitter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "splitter": 1
+      },
+      "out": {
+        "iron-plate": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistics-technology"
+    },
+    {
+      "id": "unassemble-storage-tank",
+      "name": "unassemble-storage-tank",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "storage-tank": 1
+      },
+      "out": {
+        "iron-plate": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "fluid-handling"
+    },
+    {
+      "id": "unassemble-rocket-launcher",
+      "name": "unassemble-rocket-launcher",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rocket-launcher": 1
+      },
+      "out": {
+        "iron-plate": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "rocketry"
+    },
+    {
+      "id": "unassemble-small-electric-pole",
+      "name": "unassemble-small-electric-pole",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "small-electric-pole": 1
+      },
+      "out": {
+        "wood": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-sulfur",
+      "name": "unassemble-sulfur",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "sulfur": 1
+      },
+      "out": {
+        "petroleum-gas": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "sulfur-processing"
+    },
+    {
+      "id": "unassemble-nuclear-reactor",
+      "name": "unassemble-nuclear-reactor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "nuclear-reactor": 1
+      },
+      "out": {
+        "concrete": 2000
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "nuclear-power"
+    },
+    {
+      "id": "unassemble-battery",
+      "name": "unassemble-battery",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "battery": 1
+      },
+      "out": {
+        "sulfuric-acid": 60
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "battery-technology"
+    },
+    {
+      "id": "unassemble-offshore-pump",
+      "name": "unassemble-offshore-pump",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "offshore-pump": 1
+      },
+      "out": {
+        "pipe": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-pump",
+      "name": "unassemble-pump",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "pump": 1
+      },
+      "out": {
+        "pipe": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "fluid-handling"
+    },
+    {
+      "id": "unassemble-steam-engine",
+      "name": "unassemble-steam-engine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "steam-engine": 1
+      },
+      "out": {
+        "pipe": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-pumpjack",
+      "name": "unassemble-pumpjack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "pumpjack": 1
+      },
+      "out": {
+        "pipe": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "oil-processing"
+    },
+    {
+      "id": "unassemble-steam-turbine",
+      "name": "unassemble-steam-turbine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "steam-turbine": 1
+      },
+      "out": {
+        "pipe": 60
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "nuclear-power"
+    },
+    {
+      "id": "unassemble-flamethrower-turret",
+      "name": "unassemble-flamethrower-turret",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "flamethrower-turret": 1
+      },
+      "out": {
+        "pipe": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "flamethrower-technology"
+    },
+    {
+      "id": "unassemble-explosive-uranium-cannon-shell",
+      "name": "unassemble-explosive-uranium-cannon-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "explosive-uranium-cannon-shell": 1
+      },
+      "out": {
+        "uranium-238": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "uranium-ammo"
+    },
+    {
+      "id": "unassemble-lab",
+      "name": "unassemble-lab",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "lab": 1
+      },
+      "out": {
+        "transport-belt": 12
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-fast-transport-belt",
+      "name": "unassemble-fast-transport-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "fast-transport-belt": 1
+      },
+      "out": {
+        "iron-gear-wheel": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistics-2"
+    },
+    {
+      "id": "unassemble-assembling-machine-1",
+      "name": "unassemble-assembling-machine-1",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "assembling-machine-1": 1
+      },
+      "out": {
+        "iron-gear-wheel": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "automation"
+    },
+    {
+      "id": "unassemble-shotgun",
+      "name": "unassemble-shotgun",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "shotgun": 1
+      },
+      "out": {
+        "iron-gear-wheel": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military"
+    },
+    {
+      "id": "unassemble-fast-underground-belt",
+      "name": "unassemble-fast-underground-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "fast-underground-belt": 1
+      },
+      "out": {
+        "iron-gear-wheel": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistics-2"
+    },
+    {
+      "id": "unassemble-chemical-plant",
+      "name": "unassemble-chemical-plant",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "chemical-plant": 1
+      },
+      "out": {
+        "iron-gear-wheel": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "oil-processing"
+    },
+    {
+      "id": "unassemble-fast-splitter",
+      "name": "unassemble-fast-splitter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "fast-splitter": 1
+      },
+      "out": {
+        "iron-gear-wheel": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistics-2"
+    },
+    {
+      "id": "unassemble-cargo-wagon",
+      "name": "unassemble-cargo-wagon",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "cargo-wagon": 1
+      },
+      "out": {
+        "iron-gear-wheel": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "railway"
+    },
+    {
+      "id": "unassemble-stack-inserter",
+      "name": "unassemble-stack-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "stack-inserter": 1
+      },
+      "out": {
+        "iron-gear-wheel": 60
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "stack-inserter-technology"
+    },
+    {
+      "id": "unassemble-express-underground-belt",
+      "name": "unassemble-express-underground-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "express-underground-belt": 1
+      },
+      "out": {
+        "iron-gear-wheel": 120
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistics-3"
+    },
+    {
+      "id": "unassemble-green-wire",
+      "name": "unassemble-green-wire",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "green-wire": 1
+      },
+      "out": {
+        "electronic-circuit": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "unassemble-inserter",
+      "name": "unassemble-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "inserter": 1
+      },
+      "out": {
+        "electronic-circuit": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-rail-chain-signal",
+      "name": "unassemble-rail-chain-signal",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rail-chain-signal": 1
+      },
+      "out": {
+        "electronic-circuit": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "rail-signals"
+    },
+    {
+      "id": "unassemble-rail-signal",
+      "name": "unassemble-rail-signal",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rail-signal": 1
+      },
+      "out": {
+        "electronic-circuit": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "rail-signals"
+    },
+    {
+      "id": "unassemble-repair-pack",
+      "name": "unassemble-repair-pack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "repair-pack": 1
+      },
+      "out": {
+        "electronic-circuit": 4
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-slowdown-capsule",
+      "name": "unassemble-slowdown-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "slowdown-capsule": 1
+      },
+      "out": {
+        "electronic-circuit": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military-3"
+    },
+    {
+      "id": "unassemble-arithmetic-combinator",
+      "name": "unassemble-arithmetic-combinator",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "arithmetic-combinator": 1
+      },
+      "out": {
+        "electronic-circuit": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "unassemble-advanced-circuit",
+      "name": "unassemble-advanced-circuit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "advanced-circuit": 1
+      },
+      "out": {
+        "electronic-circuit": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "advanced-electronics"
+    },
+    {
+      "id": "unassemble-filter-inserter",
+      "name": "unassemble-filter-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "filter-inserter": 1
+      },
+      "out": {
+        "electronic-circuit": 8
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "fast-inserter-technology"
+    },
+    {
+      "id": "unassemble-poison-capsule",
+      "name": "unassemble-poison-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "poison-capsule": 1
+      },
+      "out": {
+        "electronic-circuit": 9
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military-3"
+    },
+    {
+      "id": "unassemble-radar",
+      "name": "unassemble-radar",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "radar": 1
+      },
+      "out": {
+        "electronic-circuit": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-train-stop",
+      "name": "unassemble-train-stop",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "train-stop": 1
+      },
+      "out": {
+        "electronic-circuit": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "automated-rail-transportation"
+    },
+    {
+      "id": "unassemble-assembling-machine-2",
+      "name": "unassemble-assembling-machine-2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "assembling-machine-2": 1
+      },
+      "out": {
+        "electronic-circuit": 12
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "automation-2"
+    },
+    {
+      "id": "unassemble-logistic-chest-buffer",
+      "name": "unassemble-logistic-chest-buffer",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "logistic-chest-buffer": 1
+      },
+      "out": {
+        "electronic-circuit": 9
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistic-system"
+    },
+    {
+      "id": "unassemble-logistic-chest-requester",
+      "name": "unassemble-logistic-chest-requester",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "logistic-chest-requester": 1
+      },
+      "out": {
+        "electronic-circuit": 9
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistic-system"
+    },
+    {
+      "id": "unassemble-solar-panel",
+      "name": "unassemble-solar-panel",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "solar-panel": 1
+      },
+      "out": {
+        "electronic-circuit": 45
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "solar-energy"
+    },
+    {
+      "id": "unassemble-stack-filter-inserter",
+      "name": "unassemble-stack-filter-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "stack-filter-inserter": 1
+      },
+      "out": {
+        "electronic-circuit": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "stack-inserter-technology"
+    },
+    {
+      "id": "unassemble-rail",
+      "name": "unassemble-rail",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rail": 1
+      },
+      "out": {
+        "steel-plate": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "railway"
+    },
+    {
+      "id": "unassemble-land-mine",
+      "name": "unassemble-land-mine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "land-mine": 1
+      },
+      "out": {
+        "steel-plate": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "land-mine-technology"
+    },
+    {
+      "id": "unassemble-engine-unit",
+      "name": "unassemble-engine-unit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "engine-unit": 1
+      },
+      "out": {
+        "steel-plate": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "engine"
+    },
+    {
+      "id": "unassemble-medium-electric-pole",
+      "name": "unassemble-medium-electric-pole",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "medium-electric-pole": 1
+      },
+      "out": {
+        "steel-plate": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "electric-energy-distribution-1"
+    },
+    {
+      "id": "unassemble-gate",
+      "name": "unassemble-gate",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "gate": 1
+      },
+      "out": {
+        "steel-plate": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "gate-technology"
+    },
+    {
+      "id": "unassemble-steel-furnace",
+      "name": "unassemble-steel-furnace",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "steel-furnace": 1
+      },
+      "out": {
+        "steel-plate": 12
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "advanced-material-processing"
+    },
+    {
+      "id": "unassemble-explosive-cannon-shell",
+      "name": "unassemble-explosive-cannon-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "explosive-cannon-shell": 1
+      },
+      "out": {
+        "steel-plate": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "tank-technology"
+    },
+    {
+      "id": "unassemble-flamethrower",
+      "name": "unassemble-flamethrower",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "flamethrower": 1
+      },
+      "out": {
+        "steel-plate": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "flamethrower-technology"
+    },
+    {
+      "id": "unassemble-heat-pipe",
+      "name": "unassemble-heat-pipe",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "heat-pipe": 1
+      },
+      "out": {
+        "steel-plate": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "nuclear-power"
+    },
+    {
+      "id": "unassemble-heat-exchanger",
+      "name": "unassemble-heat-exchanger",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "heat-exchanger": 1
+      },
+      "out": {
+        "steel-plate": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "nuclear-power"
+    },
+    {
+      "id": "unassemble-car",
+      "name": "unassemble-car",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "car": 1
+      },
+      "out": {
+        "steel-plate": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "automobilism"
+    },
+    {
+      "id": "unassemble-oil-refinery",
+      "name": "unassemble-oil-refinery",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "oil-refinery": 1
+      },
+      "out": {
+        "steel-plate": 75
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "oil-processing"
+    },
+    {
+      "id": "unassemble-solar-panel-equipment",
+      "name": "unassemble-solar-panel-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "solar-panel-equipment": 1
+      },
+      "out": {
+        "steel-plate": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "solar-panel-equipment-technology"
+    },
+    {
+      "id": "unassemble-battery-equipment",
+      "name": "unassemble-battery-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "battery-equipment": 1
+      },
+      "out": {
+        "steel-plate": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "battery-equipment-technology"
+    },
+    {
+      "id": "unassemble-belt-immunity-equipment",
+      "name": "unassemble-belt-immunity-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "belt-immunity-equipment": 1
+      },
+      "out": {
+        "steel-plate": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "belt-immunity-equipment-technology"
+    },
+    {
+      "id": "unassemble-energy-shield-equipment",
+      "name": "unassemble-energy-shield-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "energy-shield-equipment": 1
+      },
+      "out": {
+        "steel-plate": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "energy-shield-equipment-technology"
+    },
+    {
+      "id": "unassemble-night-vision-equipment",
+      "name": "unassemble-night-vision-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "night-vision-equipment": 1
+      },
+      "out": {
+        "steel-plate": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "night-vision-equipment-technology"
+    },
+    {
+      "id": "unassemble-substation",
+      "name": "unassemble-substation",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "substation": 1
+      },
+      "out": {
+        "steel-plate": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "electric-energy-distribution-2"
+    },
+    {
+      "id": "unassemble-electric-furnace",
+      "name": "unassemble-electric-furnace",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "electric-furnace": 1
+      },
+      "out": {
+        "steel-plate": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "advanced-material-processing-2"
+    },
+    {
+      "id": "unassemble-locomotive",
+      "name": "unassemble-locomotive",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "locomotive": 1
+      },
+      "out": {
+        "steel-plate": 90
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "railway"
+    },
+    {
+      "id": "unassemble-laser-turret",
+      "name": "unassemble-laser-turret",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "laser-turret": 1
+      },
+      "out": {
+        "steel-plate": 60
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "laser-turret-technology"
+    },
+    {
+      "id": "unassemble-beacon",
+      "name": "unassemble-beacon",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "beacon": 1
+      },
+      "out": {
+        "steel-plate": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "effect-transmission"
+    },
+    {
+      "id": "unassemble-tank",
+      "name": "unassemble-tank",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "tank": 1
+      },
+      "out": {
+        "steel-plate": 200
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "tank-technology"
+    },
+    {
+      "id": "unassemble-artillery-wagon",
+      "name": "unassemble-artillery-wagon",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "artillery-wagon": 1
+      },
+      "out": {
+        "steel-plate": 200
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "artillery"
+    },
+    {
+      "id": "unassemble-power-armor",
+      "name": "unassemble-power-armor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "power-armor": 1
+      },
+      "out": {
+        "steel-plate": 120
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "power-armor-technology"
+    },
+    {
+      "id": "unassemble-boiler",
+      "name": "unassemble-boiler",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "boiler": 1
+      },
+      "out": {
+        "stone-furnace": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-burner-mining-drill",
+      "name": "unassemble-burner-mining-drill",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "burner-mining-drill": 1
+      },
+      "out": {
+        "stone-furnace": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ]
+    },
+    {
+      "id": "unassemble-cliff-explosives",
+      "name": "unassemble-cliff-explosives",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "cliff-explosives": 1
+      },
+      "out": {
+        "empty-barrel": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "cliff-explosives-technology"
+    },
+    {
+      "id": "unassemble-rocket",
+      "name": "unassemble-rocket",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rocket": 1
+      },
+      "out": {
+        "explosives": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "rocketry"
+    },
+    {
+      "id": "unassemble-cluster-grenade",
+      "name": "unassemble-cluster-grenade",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "cluster-grenade": 1
+      },
+      "out": {
+        "explosives": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "military-4"
+    },
+    {
+      "id": "unassemble-cannon-shell",
+      "name": "unassemble-cannon-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "cannon-shell": 1
+      },
+      "out": {
+        "plastic-bar": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "tank-technology"
+    },
+    {
+      "id": "unassemble-uranium-rounds-magazine",
+      "name": "unassemble-uranium-rounds-magazine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "uranium-rounds-magazine": 1
+      },
+      "out": {
+        "piercing-rounds-magazine": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "uranium-ammo"
+    },
+    {
+      "id": "unassemble-defender-capsule",
+      "name": "unassemble-defender-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "defender-capsule": 1
+      },
+      "out": {
+        "piercing-rounds-magazine": 9
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "defender"
+    },
+    {
+      "id": "unassemble-express-transport-belt",
+      "name": "unassemble-express-transport-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "express-transport-belt": 1
+      },
+      "out": {
+        "fast-transport-belt": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistics-3"
+    },
+    {
+      "id": "unassemble-uranium-fuel-cell",
+      "name": "unassemble-uranium-fuel-cell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "uranium-fuel-cell": 1
+      },
+      "out": {
+        "uranium-235": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "uranium-processing-technology"
+    },
+    {
+      "id": "unassemble-explosive-rocket",
+      "name": "unassemble-explosive-rocket",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "explosive-rocket": 1
+      },
+      "out": {
+        "rocket": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "explosive-rocketry"
+    },
+    {
+      "id": "unassemble-rocket-fuel",
+      "name": "unassemble-rocket-fuel",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rocket-fuel": 1
+      },
+      "out": {
+        "solid-fuel": 20
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "rocket-fuel-technology"
+    },
+    {
+      "id": "unassemble-flying-robot-frame",
+      "name": "unassemble-flying-robot-frame",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "flying-robot-frame": 1
+      },
+      "out": {
+        "battery": 8
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "robotics"
+    },
+    {
+      "id": "unassemble-accumulator",
+      "name": "unassemble-accumulator",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "accumulator": 1
+      },
+      "out": {
+        "battery": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "electric-energy-accumulators"
+    },
+    {
+      "id": "unassemble-logistic-chest-active-provider",
+      "name": "unassemble-logistic-chest-active-provider",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "logistic-chest-active-provider": 1
+      },
+      "out": {
+        "advanced-circuit": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistic-system"
+    },
+    {
+      "id": "unassemble-logistic-chest-passive-provider",
+      "name": "unassemble-logistic-chest-passive-provider",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "logistic-chest-passive-provider": 1
+      },
+      "out": {
+        "advanced-circuit": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistic-robotics"
+    },
+    {
+      "id": "unassemble-processing-unit",
+      "name": "unassemble-processing-unit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "processing-unit": 1
+      },
+      "out": {
+        "advanced-circuit": 6
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "advanced-electronics-2"
+    },
+    {
+      "id": "unassemble-effectivity-module",
+      "name": "unassemble-effectivity-module",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "effectivity-module": 1
+      },
+      "out": {
+        "advanced-circuit": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "effectivity-module-technology"
+    },
+    {
+      "id": "unassemble-productivity-module",
+      "name": "unassemble-productivity-module",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "productivity-module": 1
+      },
+      "out": {
+        "advanced-circuit": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "productivity-module-technology"
+    },
+    {
+      "id": "unassemble-speed-module",
+      "name": "unassemble-speed-module",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "speed-module": 1
+      },
+      "out": {
+        "advanced-circuit": 10
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "speed-module-technology"
+    },
+    {
+      "id": "unassemble-express-splitter",
+      "name": "unassemble-express-splitter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "express-splitter": 1
+      },
+      "out": {
+        "advanced-circuit": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistics-3"
+    },
+    {
+      "id": "unassemble-artillery-turret",
+      "name": "unassemble-artillery-turret",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "artillery-turret": 1
+      },
+      "out": {
+        "advanced-circuit": 80
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "artillery"
+    },
+    {
+      "id": "unassemble-modular-armor",
+      "name": "unassemble-modular-armor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "modular-armor": 1
+      },
+      "out": {
+        "advanced-circuit": 60
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "modular-armor-technology"
+    },
+    {
+      "id": "unassemble-roboport",
+      "name": "unassemble-roboport",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "roboport": 1
+      },
+      "out": {
+        "advanced-circuit": 135
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistic-robotics"
+    },
+    {
+      "id": "unassemble-personal-roboport-equipment",
+      "name": "unassemble-personal-roboport-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "personal-roboport-equipment": 1
+      },
+      "out": {
+        "advanced-circuit": 40
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "personal-roboport-equipment-technology"
+    },
+    {
+      "id": "unassemble-centrifuge",
+      "name": "unassemble-centrifuge",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "centrifuge": 1
+      },
+      "out": {
+        "advanced-circuit": 400
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "uranium-processing-technology"
+    },
+    {
+      "id": "unassemble-logistic-chest-storage",
+      "name": "unassemble-logistic-chest-storage",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "logistic-chest-storage": 1
+      },
+      "out": {
+        "steel-chest": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistic-robotics"
+    },
+    {
+      "id": "unassemble-exoskeleton-equipment",
+      "name": "unassemble-exoskeleton-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "exoskeleton-equipment": 1
+      },
+      "out": {
+        "electric-engine-unit": 90
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "exoskeleton-equipment-technology"
+    },
+    {
+      "id": "unassemble-rocket-silo",
+      "name": "unassemble-rocket-silo",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rocket-silo": 1
+      },
+      "out": {
+        "electric-engine-unit": 1000
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "rocket-silo-technology"
+    },
+    {
+      "id": "unassemble-uranium-cannon-shell",
+      "name": "unassemble-uranium-cannon-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "uranium-cannon-shell": 1
+      },
+      "out": {
+        "cannon-shell": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "uranium-ammo"
+    },
+    {
+      "id": "unassemble-fluid-wagon",
+      "name": "unassemble-fluid-wagon",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "fluid-wagon": 1
+      },
+      "out": {
+        "storage-tank": 4
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "fluid-wagon-technology"
+    },
+    {
+      "id": "unassemble-artillery-targeting-remote",
+      "name": "unassemble-artillery-targeting-remote",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "artillery-targeting-remote": 1
+      },
+      "out": {
+        "radar": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "artillery"
+    },
+    {
+      "id": "unassemble-artillery-shell",
+      "name": "unassemble-artillery-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "artillery-shell": 1
+      },
+      "out": {
+        "radar": 3
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "artillery"
+    },
+    {
+      "id": "unassemble-spidertron-remote",
+      "name": "unassemble-spidertron-remote",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "spidertron-remote": 1
+      },
+      "out": {
+        "radar": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "spidertron-technology"
+    },
+    {
+      "id": "unassemble-distractor-capsule",
+      "name": "unassemble-distractor-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "distractor-capsule": 1
+      },
+      "out": {
+        "defender-capsule": 8
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "distractor"
+    },
+    {
+      "id": "unassemble-fusion-reactor-equipment",
+      "name": "unassemble-fusion-reactor-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "fusion-reactor-equipment": 1
+      },
+      "out": {
+        "low-density-structure": 100
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "fusion-reactor-equipment-technology"
+    },
+    {
+      "id": "unassemble-power-armor-mk2",
+      "name": "unassemble-power-armor-mk2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "power-armor-mk2": 1
+      },
+      "out": {
+        "low-density-structure": 150
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "power-armor-mk2-technology"
+    },
+    {
+      "id": "unassemble-construction-robot",
+      "name": "unassemble-construction-robot",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "construction-robot": 1
+      },
+      "out": {
+        "flying-robot-frame": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "construction-robotics"
+    },
+    {
+      "id": "unassemble-logistic-robot",
+      "name": "unassemble-logistic-robot",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "logistic-robot": 1
+      },
+      "out": {
+        "flying-robot-frame": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "logistic-robotics"
+    },
+    {
+      "id": "unassemble-rocket-control-unit",
+      "name": "unassemble-rocket-control-unit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rocket-control-unit": 1
+      },
+      "out": {
+        "processing-unit": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "rocket-control-unit-technology"
+    },
+    {
+      "id": "unassemble-speed-module-2",
+      "name": "unassemble-speed-module-2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "speed-module-2": 1
+      },
+      "out": {
+        "processing-unit": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "speed-module-2-technology"
+    },
+    {
+      "id": "unassemble-energy-shield-mk2-equipment",
+      "name": "unassemble-energy-shield-mk2-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "energy-shield-mk2-equipment": 1
+      },
+      "out": {
+        "processing-unit": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "energy-shield-mk2-equipment-technology"
+    },
+    {
+      "id": "unassemble-personal-laser-defense-equipment",
+      "name": "unassemble-personal-laser-defense-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "personal-laser-defense-equipment": 1
+      },
+      "out": {
+        "processing-unit": 60
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "personal-laser-defense-equipment-technology"
+    },
+    {
+      "id": "unassemble-discharge-defense-equipment",
+      "name": "unassemble-discharge-defense-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "discharge-defense-equipment": 1
+      },
+      "out": {
+        "processing-unit": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "discharge-defense-equipment-technology"
+    },
+    {
+      "id": "unassemble-effectivity-module-3",
+      "name": "unassemble-effectivity-module-3",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "effectivity-module-3": 1
+      },
+      "out": {
+        "processing-unit": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "effectivity-module-3-technology"
+    },
+    {
+      "id": "unassemble-productivity-module-3",
+      "name": "unassemble-productivity-module-3",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "productivity-module-3": 1
+      },
+      "out": {
+        "processing-unit": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "productivity-module-3-technology"
+    },
+    {
+      "id": "unassemble-personal-roboport-mk2-equipment",
+      "name": "unassemble-personal-roboport-mk2-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "personal-roboport-mk2-equipment": 1
+      },
+      "out": {
+        "processing-unit": 300
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "personal-roboport-mk2-equipment-technology"
+    },
+    {
+      "id": "unassemble-effectivity-module-2",
+      "name": "unassemble-effectivity-module-2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "effectivity-module-2": 1
+      },
+      "out": {
+        "effectivity-module": 12
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "effectivity-module-2-technology"
+    },
+    {
+      "id": "unassemble-productivity-module-2",
+      "name": "unassemble-productivity-module-2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "productivity-module-2": 1
+      },
+      "out": {
+        "productivity-module": 12
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "productivity-module-2-technology"
+    },
+    {
+      "id": "unassemble-assembling-machine-3",
+      "name": "unassemble-assembling-machine-3",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "assembling-machine-3": 1
+      },
+      "out": {
+        "speed-module": 8
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "automation-3"
+    },
+    {
+      "id": "unassemble-nuclear-fuel",
+      "name": "unassemble-nuclear-fuel",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "nuclear-fuel": 1
+      },
+      "out": {
+        "rocket-fuel": 2
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "kovarex-enrichment-process-technology"
+    },
+    {
+      "id": "unassemble-rocket-part",
+      "name": "unassemble-rocket-part",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "rocket-part": 1
+      },
+      "out": {
+        "rocket-fuel": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "rocket-silo-technology"
+    },
+    {
+      "id": "unassemble-satellite",
+      "name": "unassemble-satellite",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "satellite": 1
+      },
+      "out": {
+        "rocket-fuel": 300
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "space-science-pack-technology"
+    },
+    {
+      "id": "unassemble-battery-mk2-equipment",
+      "name": "unassemble-battery-mk2-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "battery-mk2-equipment": 1
+      },
+      "out": {
+        "battery-equipment": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "battery-mk2-equipment-technology"
+    },
+    {
+      "id": "unassemble-atomic-bomb",
+      "name": "unassemble-atomic-bomb",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "atomic-bomb": 1
+      },
+      "out": {
+        "rocket-control-unit": 30
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "atomic-bomb-technology"
+    },
+    {
+      "id": "unassemble-spidertron",
+      "name": "unassemble-spidertron",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "spidertron": 1
+      },
+      "out": {
+        "rocket-control-unit": 112
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "spidertron-technology"
+    },
+    {
+      "id": "unassemble-destroyer-capsule",
+      "name": "unassemble-destroyer-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "destroyer-capsule": 1
+      },
+      "out": {
+        "distractor-capsule": 8
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "destroyer"
+    },
+    {
+      "id": "unassemble-speed-module-3",
+      "name": "unassemble-speed-module-3",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3,
+      "in": {
+        "speed-module-3": 1
+      },
+      "out": {
+        "speed-module-2": 15
+      },
+      "producers": [
+        "assembling-machine-1",
+        "assembling-machine-2",
+        "assembling-machine-3"
+      ],
+      "unlockedBy": "speed-module-3-technology"
+    },
+    {
+      "id": "liquidate-accumulator",
+      "name": "liquidate-accumulator",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.3703333333333,
+      "in": {
+        "accumulator": 1
+      },
+      "out": {
+        "raw-fish": 97
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "electric-energy-accumulators"
+    },
+    {
+      "id": "liquidate-advanced-circuit",
+      "name": "liquidate-advanced-circuit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.86111111111111,
+      "in": {
+        "advanced-circuit": 1
+      },
+      "out": {
+        "raw-fish": 18
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "advanced-electronics"
+    },
+    {
+      "id": "liquidate-arithmetic-combinator",
+      "name": "liquidate-arithmetic-combinator",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.68,
+      "in": {
+        "arithmetic-combinator": 1
+      },
+      "out": {
+        "raw-fish": 12
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "liquidate-artillery-shell",
+      "name": "liquidate-artillery-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 7.9051111111111,
+      "in": {
+        "artillery-shell": 1
+      },
+      "out": {
+        "raw-fish": 242
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "artillery"
+    },
+    {
+      "id": "liquidate-artillery-targeting-remote",
+      "name": "liquidate-artillery-targeting-remote",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.2727388888889,
+      "in": {
+        "artillery-targeting-remote": 1
+      },
+      "out": {
+        "raw-fish": 165
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "artillery"
+    },
+    {
+      "id": "liquidate-artillery-turret",
+      "name": "liquidate-artillery-turret",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 28.774222222222,
+      "in": {
+        "artillery-turret": 1
+      },
+      "out": {
+        "raw-fish": 767
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "artillery"
+    },
+    {
+      "id": "liquidate-artillery-wagon",
+      "name": "liquidate-artillery-wagon",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 48.312222222222,
+      "in": {
+        "artillery-wagon": 1
+      },
+      "out": {
+        "raw-fish": 1393
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "artillery"
+    },
+    {
+      "id": "liquidate-assembling-machine-1",
+      "name": "liquidate-assembling-machine-1",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.85,
+      "in": {
+        "assembling-machine-1": 1
+      },
+      "out": {
+        "raw-fish": 16
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "automation"
+    },
+    {
+      "id": "liquidate-assembling-machine-2",
+      "name": "liquidate-assembling-machine-2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.77,
+      "in": {
+        "assembling-machine-2": 1
+      },
+      "out": {
+        "raw-fish": 44
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "automation-2"
+    },
+    {
+      "id": "liquidate-assembling-machine-3",
+      "name": "liquidate-assembling-machine-3",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 23.672222222222,
+      "in": {
+        "assembling-machine-3": 1
+      },
+      "out": {
+        "raw-fish": 759
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "automation-3"
+    },
+    {
+      "id": "liquidate-atomic-bomb",
+      "name": "liquidate-atomic-bomb",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 111.75711111111,
+      "in": {
+        "atomic-bomb": 1
+      },
+      "out": {
+        "raw-fish": 4061
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "atomic-bomb-technology"
+    },
+    {
+      "id": "liquidate-automation-science-pack",
+      "name": "liquidate-automation-science-pack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.15,
+      "in": {
+        "automation-science-pack": 1
+      },
+      "out": {
+        "raw-fish": 2
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-battery",
+      "name": "liquidate-battery",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.84206666666667,
+      "in": {
+        "battery": 1
+      },
+      "out": {
+        "raw-fish": 17
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "battery-technology"
+    },
+    {
+      "id": "liquidate-battery-equipment",
+      "name": "liquidate-battery-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.5303333333333,
+      "in": {
+        "battery-equipment": 1
+      },
+      "out": {
+        "raw-fish": 126
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "battery-equipment-technology"
+    },
+    {
+      "id": "liquidate-battery-mk2-equipment",
+      "name": "liquidate-battery-mk2-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 127.63830555556,
+      "in": {
+        "battery-mk2-equipment": 1
+      },
+      "out": {
+        "raw-fish": 4506
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "battery-mk2-equipment-technology"
+    },
+    {
+      "id": "liquidate-beacon",
+      "name": "liquidate-beacon",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 21.012222222222,
+      "in": {
+        "beacon": 1
+      },
+      "out": {
+        "raw-fish": 560
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "effect-transmission"
+    },
+    {
+      "id": "liquidate-belt-immunity-equipment",
+      "name": "liquidate-belt-immunity-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.6255555555556,
+      "in": {
+        "belt-immunity-equipment": 1
+      },
+      "out": {
+        "raw-fish": 132
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "belt-immunity-equipment-technology"
+    },
+    {
+      "id": "liquidate-big-electric-pole",
+      "name": "liquidate-big-electric-pole",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.9,
+      "in": {
+        "big-electric-pole": 1
+      },
+      "out": {
+        "raw-fish": 15
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "electric-energy-distribution-1"
+    },
+    {
+      "id": "liquidate-boiler",
+      "name": "liquidate-boiler",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.31,
+      "in": {
+        "boiler": 1
+      },
+      "out": {
+        "raw-fish": 4
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-burner-inserter",
+      "name": "liquidate-burner-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.11,
+      "in": {
+        "burner-inserter": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-burner-mining-drill",
+      "name": "liquidate-burner-mining-drill",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.4,
+      "in": {
+        "burner-mining-drill": 1
+      },
+      "out": {
+        "raw-fish": 6
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-cannon-shell",
+      "name": "liquidate-cannon-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.0155277777778,
+      "in": {
+        "cannon-shell": 1
+      },
+      "out": {
+        "raw-fish": 23
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "tank-technology"
+    },
+    {
+      "id": "liquidate-car",
+      "name": "liquidate-car",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.17,
+      "in": {
+        "car": 1
+      },
+      "out": {
+        "raw-fish": 89
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "automobilism"
+    },
+    {
+      "id": "liquidate-cargo-wagon",
+      "name": "liquidate-cargo-wagon",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3.44,
+      "in": {
+        "cargo-wagon": 1
+      },
+      "out": {
+        "raw-fish": 58
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "railway"
+    },
+    {
+      "id": "liquidate-centrifuge",
+      "name": "liquidate-centrifuge",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 100.71111111111,
+      "in": {
+        "centrifuge": 1
+      },
+      "out": {
+        "raw-fish": 2687
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "uranium-processing-technology"
+    },
+    {
+      "id": "liquidate-chemical-plant",
+      "name": "liquidate-chemical-plant",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.74,
+      "in": {
+        "chemical-plant": 1
+      },
+      "out": {
+        "raw-fish": 37
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "oil-processing"
+    },
+    {
+      "id": "liquidate-chemical-science-pack",
+      "name": "liquidate-chemical-science-pack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.0009833333333,
+      "in": {
+        "chemical-science-pack": 1
+      },
+      "out": {
+        "raw-fish": 56
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "chemical-science-pack-technology"
+    },
+    {
+      "id": "liquidate-cliff-explosives",
+      "name": "liquidate-cliff-explosives",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.7941666666667,
+      "in": {
+        "cliff-explosives": 1
+      },
+      "out": {
+        "raw-fish": 65
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "cliff-explosives-technology"
+    },
+    {
+      "id": "liquidate-cluster-grenade",
+      "name": "liquidate-cluster-grenade",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.5820833333333,
+      "in": {
+        "cluster-grenade": 1
+      },
+      "out": {
+        "raw-fish": 104
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military-4"
+    },
+    {
+      "id": "liquidate-combat-shotgun",
+      "name": "liquidate-combat-shotgun",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.64,
+      "in": {
+        "combat-shotgun": 1
+      },
+      "out": {
+        "raw-fish": 47
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military-3"
+    },
+    {
+      "id": "liquidate-concrete",
+      "name": "liquidate-concrete",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.0252,
+      "in": {
+        "concrete": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "concrete-technology"
+    },
+    {
+      "id": "liquidate-constant-combinator",
+      "name": "liquidate-constant-combinator",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.35,
+      "in": {
+        "constant-combinator": 1
+      },
+      "out": {
+        "raw-fish": 6
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "liquidate-construction-robot",
+      "name": "liquidate-construction-robot",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3.6083333333333,
+      "in": {
+        "construction-robot": 1
+      },
+      "out": {
+        "raw-fish": 120
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "construction-robotics"
+    },
+    {
+      "id": "liquidate-decider-combinator",
+      "name": "liquidate-decider-combinator",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.68,
+      "in": {
+        "decider-combinator": 1
+      },
+      "out": {
+        "raw-fish": 12
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "liquidate-defender-capsule",
+      "name": "liquidate-defender-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.76,
+      "in": {
+        "defender-capsule": 1
+      },
+      "out": {
+        "raw-fish": 40
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "defender"
+    },
+    {
+      "id": "liquidate-destroyer-capsule",
+      "name": "liquidate-destroyer-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 44.368888888889,
+      "in": {
+        "destroyer-capsule": 1
+      },
+      "out": {
+        "raw-fish": 1529
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "destroyer"
+    },
+    {
+      "id": "liquidate-discharge-defense-equipment",
+      "name": "liquidate-discharge-defense-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 172.64169444444,
+      "in": {
+        "discharge-defense-equipment": 1
+      },
+      "out": {
+        "raw-fish": 6001
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "discharge-defense-equipment-technology"
+    },
+    {
+      "id": "liquidate-discharge-defense-remote",
+      "name": "liquidate-discharge-defense-remote",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.13,
+      "in": {
+        "discharge-defense-remote": 1
+      },
+      "out": {
+        "raw-fish": 2
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "discharge-defense-equipment-technology"
+    },
+    {
+      "id": "liquidate-distractor-capsule",
+      "name": "liquidate-distractor-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 9.7933333333333,
+      "in": {
+        "distractor-capsule": 1
+      },
+      "out": {
+        "raw-fish": 282
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "distractor"
+    },
+    {
+      "id": "liquidate-effectivity-module",
+      "name": "liquidate-effectivity-module",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.0255555555556,
+      "in": {
+        "effectivity-module": 1
+      },
+      "out": {
+        "raw-fish": 123
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "effectivity-module-technology"
+    },
+    {
+      "id": "liquidate-effectivity-module-2",
+      "name": "liquidate-effectivity-module-2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 45.501472222222,
+      "in": {
+        "effectivity-module-2": 1
+      },
+      "out": {
+        "raw-fish": 1676
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "effectivity-module-2-technology"
+    },
+    {
+      "id": "liquidate-effectivity-module-3",
+      "name": "liquidate-effectivity-module-3",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 253.20661111111,
+      "in": {
+        "effectivity-module-3": 1
+      },
+      "out": {
+        "raw-fish": 11133
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "effectivity-module-3-technology"
+    },
+    {
+      "id": "liquidate-electric-engine-unit",
+      "name": "liquidate-electric-engine-unit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.9842,
+      "in": {
+        "electric-engine-unit": 1
+      },
+      "out": {
+        "raw-fish": 24
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "electric-engine"
+    },
+    {
+      "id": "liquidate-electric-furnace",
+      "name": "liquidate-electric-furnace",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.7855555555556,
+      "in": {
+        "electric-furnace": 1
+      },
+      "out": {
+        "raw-fish": 139
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "advanced-material-processing-2"
+    },
+    {
+      "id": "liquidate-electric-mining-drill",
+      "name": "liquidate-electric-mining-drill",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.87,
+      "in": {
+        "electric-mining-drill": 1
+      },
+      "out": {
+        "raw-fish": 16
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-electronic-circuit",
+      "name": "liquidate-electronic-circuit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.11,
+      "in": {
+        "electronic-circuit": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-energy-shield-equipment",
+      "name": "liquidate-energy-shield-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.6255555555556,
+      "in": {
+        "energy-shield-equipment": 1
+      },
+      "out": {
+        "raw-fish": 132
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "energy-shield-equipment-technology"
+    },
+    {
+      "id": "liquidate-energy-shield-mk2-equipment",
+      "name": "liquidate-energy-shield-mk2-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 87.063138888889,
+      "in": {
+        "energy-shield-mk2-equipment": 1
+      },
+      "out": {
+        "raw-fish": 3096
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "energy-shield-mk2-equipment-technology"
+    },
+    {
+      "id": "liquidate-engine-unit",
+      "name": "liquidate-engine-unit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.39,
+      "in": {
+        "engine-unit": 1
+      },
+      "out": {
+        "raw-fish": 7
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "engine"
+    },
+    {
+      "id": "liquidate-exoskeleton-equipment",
+      "name": "liquidate-exoskeleton-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 73.583388888889,
+      "in": {
+        "exoskeleton-equipment": 1
+      },
+      "out": {
+        "raw-fish": 2537
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "exoskeleton-equipment-technology"
+    },
+    {
+      "id": "liquidate-explosive-cannon-shell",
+      "name": "liquidate-explosive-cannon-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.2299444444444,
+      "in": {
+        "explosive-cannon-shell": 1
+      },
+      "out": {
+        "raw-fish": 28
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "tank-technology"
+    },
+    {
+      "id": "liquidate-explosive-rocket",
+      "name": "liquidate-explosive-rocket",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.00325,
+      "in": {
+        "explosive-rocket": 1
+      },
+      "out": {
+        "raw-fish": 27
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "explosive-rocketry"
+    },
+    {
+      "id": "liquidate-explosive-uranium-cannon-shell",
+      "name": "liquidate-explosive-uranium-cannon-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.4169444444444,
+      "in": {
+        "explosive-uranium-cannon-shell": 1
+      },
+      "out": {
+        "raw-fish": 34
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "uranium-ammo"
+    },
+    {
+      "id": "liquidate-explosives",
+      "name": "liquidate-explosives",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.21441666666667,
+      "in": {
+        "explosives": 1
+      },
+      "out": {
+        "raw-fish": 3
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "explosives-technology"
+    },
+    {
+      "id": "liquidate-express-splitter",
+      "name": "liquidate-express-splitter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 13.233511111111,
+      "in": {
+        "express-splitter": 1
+      },
+      "out": {
+        "raw-fish": 428
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistics-3"
+    },
+    {
+      "id": "liquidate-express-transport-belt",
+      "name": "liquidate-express-transport-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.3506,
+      "in": {
+        "express-transport-belt": 1
+      },
+      "out": {
+        "raw-fish": 31
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistics-3"
+    },
+    {
+      "id": "liquidate-express-underground-belt",
+      "name": "liquidate-express-underground-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.2231,
+      "in": {
+        "express-underground-belt": 1
+      },
+      "out": {
+        "raw-fish": 104
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistics-3"
+    },
+    {
+      "id": "liquidate-fast-inserter",
+      "name": "liquidate-fast-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.53,
+      "in": {
+        "fast-inserter": 1
+      },
+      "out": {
+        "raw-fish": 12
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "fast-inserter-technology"
+    },
+    {
+      "id": "liquidate-fast-splitter",
+      "name": "liquidate-fast-splitter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.66,
+      "in": {
+        "fast-splitter": 1
+      },
+      "out": {
+        "raw-fish": 67
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistics-2"
+    },
+    {
+      "id": "liquidate-fast-transport-belt",
+      "name": "liquidate-fast-transport-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.385,
+      "in": {
+        "fast-transport-belt": 1
+      },
+      "out": {
+        "raw-fish": 6
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistics-2"
+    },
+    {
+      "id": "liquidate-fast-underground-belt",
+      "name": "liquidate-fast-underground-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.4725,
+      "in": {
+        "fast-underground-belt": 1
+      },
+      "out": {
+        "raw-fish": 29
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistics-2"
+    },
+    {
+      "id": "liquidate-filter-inserter",
+      "name": "liquidate-filter-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1,
+      "in": {
+        "filter-inserter": 1
+      },
+      "out": {
+        "raw-fish": 26
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "fast-inserter-technology"
+    },
+    {
+      "id": "liquidate-firearm-magazine",
+      "name": "liquidate-firearm-magazine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.1,
+      "in": {
+        "firearm-magazine": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-flamethrower",
+      "name": "liquidate-flamethrower",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.32,
+      "in": {
+        "flamethrower": 1
+      },
+      "out": {
+        "raw-fish": 20
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "flamethrower-technology"
+    },
+    {
+      "id": "liquidate-flamethrower-ammo",
+      "name": "liquidate-flamethrower-ammo",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.68,
+      "in": {
+        "flamethrower-ammo": 1
+      },
+      "out": {
+        "raw-fish": 24
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "flamethrower-technology"
+    },
+    {
+      "id": "liquidate-flamethrower-turret",
+      "name": "liquidate-flamethrower-turret",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 7.09,
+      "in": {
+        "flamethrower-turret": 1
+      },
+      "out": {
+        "raw-fish": 166
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "flamethrower-technology"
+    },
+    {
+      "id": "liquidate-fluid-wagon",
+      "name": "liquidate-fluid-wagon",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3.945,
+      "in": {
+        "fluid-wagon": 1
+      },
+      "out": {
+        "raw-fish": 84
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "fluid-wagon-technology"
+    },
+    {
+      "id": "liquidate-flying-robot-frame",
+      "name": "liquidate-flying-robot-frame",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3.3583333333333,
+      "in": {
+        "flying-robot-frame": 1
+      },
+      "out": {
+        "raw-fish": 106
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "robotics"
+    },
+    {
+      "id": "liquidate-fusion-reactor-equipment",
+      "name": "liquidate-fusion-reactor-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 929.80666666667,
+      "in": {
+        "fusion-reactor-equipment": 1
+      },
+      "out": {
+        "raw-fish": 29208
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "fusion-reactor-equipment-technology"
+    },
+    {
+      "id": "liquidate-gate",
+      "name": "liquidate-gate",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.62,
+      "in": {
+        "gate": 1
+      },
+      "out": {
+        "raw-fish": 12
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "gate-technology"
+    },
+    {
+      "id": "liquidate-green-wire",
+      "name": "liquidate-green-wire",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.16,
+      "in": {
+        "green-wire": 1
+      },
+      "out": {
+        "raw-fish": 2
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "liquidate-grenade",
+      "name": "liquidate-grenade",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.4,
+      "in": {
+        "grenade": 1
+      },
+      "out": {
+        "raw-fish": 5
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military-2"
+    },
+    {
+      "id": "liquidate-gun-turret",
+      "name": "liquidate-gun-turret",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.31,
+      "in": {
+        "gun-turret": 1
+      },
+      "out": {
+        "raw-fish": 20
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "gun-turret-technology"
+    },
+    {
+      "id": "liquidate-hazard-concrete",
+      "name": "liquidate-hazard-concrete",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.02645,
+      "in": {
+        "hazard-concrete": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "concrete-technology"
+    },
+    {
+      "id": "liquidate-heat-exchanger",
+      "name": "liquidate-heat-exchanger",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3.66,
+      "in": {
+        "heat-exchanger": 1
+      },
+      "out": {
+        "raw-fish": 62
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "nuclear-power"
+    },
+    {
+      "id": "liquidate-heat-pipe",
+      "name": "liquidate-heat-pipe",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.63,
+      "in": {
+        "heat-pipe": 1
+      },
+      "out": {
+        "raw-fish": 23
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "nuclear-power"
+    },
+    {
+      "id": "liquidate-heavy-armor",
+      "name": "liquidate-heavy-armor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 8.1,
+      "in": {
+        "heavy-armor": 1
+      },
+      "out": {
+        "raw-fish": 116
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "heavy-armor-technology"
+    },
+    {
+      "id": "liquidate-inserter",
+      "name": "liquidate-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.23,
+      "in": {
+        "inserter": 1
+      },
+      "out": {
+        "raw-fish": 4
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-iron-chest",
+      "name": "liquidate-iron-chest",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.18,
+      "in": {
+        "iron-chest": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-iron-gear-wheel",
+      "name": "liquidate-iron-gear-wheel",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.06,
+      "in": {
+        "iron-gear-wheel": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-lab",
+      "name": "liquidate-lab",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.97,
+      "in": {
+        "lab": 1
+      },
+      "out": {
+        "raw-fish": 42
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-land-mine",
+      "name": "liquidate-land-mine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.15470833333333,
+      "in": {
+        "land-mine": 1
+      },
+      "out": {
+        "raw-fish": 3
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "land-mine-technology"
+    },
+    {
+      "id": "liquidate-landfill",
+      "name": "liquidate-landfill",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.415,
+      "in": {
+        "landfill": 1
+      },
+      "out": {
+        "raw-fish": 4
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "landfill-technology"
+    },
+    {
+      "id": "liquidate-laser-turret",
+      "name": "liquidate-laser-turret",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 14.9348,
+      "in": {
+        "laser-turret": 1
+      },
+      "out": {
+        "raw-fish": 376
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "laser-turret-technology"
+    },
+    {
+      "id": "liquidate-light-armor",
+      "name": "liquidate-light-armor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.84,
+      "in": {
+        "light-armor": 1
+      },
+      "out": {
+        "raw-fish": 8
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-locomotive",
+      "name": "liquidate-locomotive",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 12.57,
+      "in": {
+        "locomotive": 1
+      },
+      "out": {
+        "raw-fish": 295
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "railway"
+    },
+    {
+      "id": "liquidate-logistic-chest-active-provider",
+      "name": "liquidate-logistic-chest-active-provider",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.2111111111111,
+      "in": {
+        "logistic-chest-active-provider": 1
+      },
+      "out": {
+        "raw-fish": 57
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistic-system"
+    },
+    {
+      "id": "liquidate-logistic-chest-buffer",
+      "name": "liquidate-logistic-chest-buffer",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.2111111111111,
+      "in": {
+        "logistic-chest-buffer": 1
+      },
+      "out": {
+        "raw-fish": 57
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistic-system"
+    },
+    {
+      "id": "liquidate-logistic-chest-passive-provider",
+      "name": "liquidate-logistic-chest-passive-provider",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.2111111111111,
+      "in": {
+        "logistic-chest-passive-provider": 1
+      },
+      "out": {
+        "raw-fish": 57
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistic-robotics"
+    },
+    {
+      "id": "liquidate-logistic-chest-requester",
+      "name": "liquidate-logistic-chest-requester",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.2111111111111,
+      "in": {
+        "logistic-chest-requester": 1
+      },
+      "out": {
+        "raw-fish": 57
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistic-system"
+    },
+    {
+      "id": "liquidate-logistic-chest-storage",
+      "name": "liquidate-logistic-chest-storage",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.2111111111111,
+      "in": {
+        "logistic-chest-storage": 1
+      },
+      "out": {
+        "raw-fish": 57
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistic-robotics"
+    },
+    {
+      "id": "liquidate-logistic-robot",
+      "name": "liquidate-logistic-robot",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.1105555555556,
+      "in": {
+        "logistic-robot": 1
+      },
+      "out": {
+        "raw-fish": 180
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistic-robotics"
+    },
+    {
+      "id": "liquidate-logistic-science-pack",
+      "name": "liquidate-logistic-science-pack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.365,
+      "in": {
+        "logistic-science-pack": 1
+      },
+      "out": {
+        "raw-fish": 8
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistic-science-pack-technology"
+    },
+    {
+      "id": "liquidate-long-handed-inserter",
+      "name": "liquidate-long-handed-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.35,
+      "in": {
+        "long-handed-inserter": 1
+      },
+      "out": {
+        "raw-fish": 7
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "automation"
+    },
+    {
+      "id": "liquidate-low-density-structure",
+      "name": "liquidate-low-density-structure",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.9827777777778,
+      "in": {
+        "low-density-structure": 1
+      },
+      "out": {
+        "raw-fish": 37
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "low-density-structure-technology"
+    },
+    {
+      "id": "liquidate-medium-electric-pole",
+      "name": "liquidate-medium-electric-pole",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.4,
+      "in": {
+        "medium-electric-pole": 1
+      },
+      "out": {
+        "raw-fish": 6
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "electric-energy-distribution-1"
+    },
+    {
+      "id": "liquidate-military-science-pack",
+      "name": "liquidate-military-science-pack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.575,
+      "in": {
+        "military-science-pack": 1
+      },
+      "out": {
+        "raw-fish": 12
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military-science-pack-technology"
+    },
+    {
+      "id": "liquidate-modular-armor",
+      "name": "liquidate-modular-armor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 32.003333333333,
+      "in": {
+        "modular-armor": 1
+      },
+      "out": {
+        "raw-fish": 752
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "modular-armor-technology"
+    },
+    {
+      "id": "liquidate-night-vision-equipment",
+      "name": "liquidate-night-vision-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.6255555555556,
+      "in": {
+        "night-vision-equipment": 1
+      },
+      "out": {
+        "raw-fish": 132
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "night-vision-equipment-technology"
+    },
+    {
+      "id": "liquidate-nuclear-fuel",
+      "name": "liquidate-nuclear-fuel",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 6.8004444444444,
+      "in": {
+        "nuclear-fuel": 1
+      },
+      "out": {
+        "raw-fish": 141
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "kovarex-enrichment-process-technology"
+    },
+    {
+      "id": "liquidate-nuclear-reactor",
+      "name": "liquidate-nuclear-reactor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 513.27555555556,
+      "in": {
+        "nuclear-reactor": 1
+      },
+      "out": {
+        "raw-fish": 13451
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "nuclear-power"
+    },
+    {
+      "id": "liquidate-offshore-pump",
+      "name": "liquidate-offshore-pump",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.36,
+      "in": {
+        "offshore-pump": 1
+      },
+      "out": {
+        "raw-fish": 7
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-oil-refinery",
+      "name": "liquidate-oil-refinery",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.23,
+      "in": {
+        "oil-refinery": 1
+      },
+      "out": {
+        "raw-fish": 94
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "oil-processing"
+    },
+    {
+      "id": "liquidate-personal-laser-defense-equipment",
+      "name": "liquidate-personal-laser-defense-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 167.77266666667,
+      "in": {
+        "personal-laser-defense-equipment": 1
+      },
+      "out": {
+        "raw-fish": 6097
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "personal-laser-defense-equipment-technology"
+    },
+    {
+      "id": "liquidate-personal-roboport-equipment",
+      "name": "liquidate-personal-roboport-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 51.444111111111,
+      "in": {
+        "personal-roboport-equipment": 1
+      },
+      "out": {
+        "raw-fish": 1504
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "personal-roboport-equipment-technology"
+    },
+    {
+      "id": "liquidate-personal-roboport-mk2-equipment",
+      "name": "liquidate-personal-roboport-mk2-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 712.38,
+      "in": {
+        "personal-roboport-mk2-equipment": 1
+      },
+      "out": {
+        "raw-fish": 27415
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "personal-roboport-mk2-equipment-technology"
+    },
+    {
+      "id": "liquidate-piercing-rounds-magazine",
+      "name": "liquidate-piercing-rounds-magazine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.38,
+      "in": {
+        "piercing-rounds-magazine": 1
+      },
+      "out": {
+        "raw-fish": 6
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military-2"
+    },
+    {
+      "id": "liquidate-piercing-shotgun-shell",
+      "name": "liquidate-piercing-shotgun-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.71,
+      "in": {
+        "piercing-shotgun-shell": 1
+      },
+      "out": {
+        "raw-fish": 12
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military-4"
+    },
+    {
+      "id": "liquidate-pipe",
+      "name": "liquidate-pipe",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.04,
+      "in": {
+        "pipe": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-pipe-to-ground",
+      "name": "liquidate-pipe-to-ground",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.265,
+      "in": {
+        "pipe-to-ground": 1
+      },
+      "out": {
+        "raw-fish": 3
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-pistol",
+      "name": "liquidate-pistol",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.27,
+      "in": {
+        "pistol": 1
+      },
+      "out": {
+        "raw-fish": 3
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-plastic-bar",
+      "name": "liquidate-plastic-bar",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.26055555555556,
+      "in": {
+        "plastic-bar": 1
+      },
+      "out": {
+        "raw-fish": 3
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "plastics"
+    },
+    {
+      "id": "liquidate-poison-capsule",
+      "name": "liquidate-poison-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1,
+      "in": {
+        "poison-capsule": 1
+      },
+      "out": {
+        "raw-fish": 19
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military-3"
+    },
+    {
+      "id": "liquidate-power-armor",
+      "name": "liquidate-power-armor",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 190.82355555556,
+      "in": {
+        "power-armor": 1
+      },
+      "out": {
+        "raw-fish": 6580
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "power-armor-technology"
+    },
+    {
+      "id": "liquidate-power-armor-mk2",
+      "name": "liquidate-power-armor-mk2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2623.3892777778,
+      "in": {
+        "power-armor-mk2": 1
+      },
+      "out": {
+        "raw-fish": 65535
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "power-armor-mk2-technology"
+    },
+    {
+      "id": "liquidate-power-switch",
+      "name": "liquidate-power-switch",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.47,
+      "in": {
+        "power-switch": 1
+      },
+      "out": {
+        "raw-fish": 8
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "liquidate-processing-unit",
+      "name": "liquidate-processing-unit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.1527388888889,
+      "in": {
+        "processing-unit": 1
+      },
+      "out": {
+        "raw-fish": 116
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "advanced-electronics-2"
+    },
+    {
+      "id": "liquidate-production-science-pack",
+      "name": "liquidate-production-science-pack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.6837037037037,
+      "in": {
+        "production-science-pack": 1
+      },
+      "out": {
+        "raw-fish": 156
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "production-science-pack-technology"
+    },
+    {
+      "id": "liquidate-productivity-module",
+      "name": "liquidate-productivity-module",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.0255555555556,
+      "in": {
+        "productivity-module": 1
+      },
+      "out": {
+        "raw-fish": 123
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "productivity-module-technology"
+    },
+    {
+      "id": "liquidate-productivity-module-2",
+      "name": "liquidate-productivity-module-2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 45.501472222222,
+      "in": {
+        "productivity-module-2": 1
+      },
+      "out": {
+        "raw-fish": 1676
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "productivity-module-2-technology"
+    },
+    {
+      "id": "liquidate-productivity-module-3",
+      "name": "liquidate-productivity-module-3",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 253.20661111111,
+      "in": {
+        "productivity-module-3": 1
+      },
+      "out": {
+        "raw-fish": 11133
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "productivity-module-3-technology"
+    },
+    {
+      "id": "liquidate-programmable-speaker",
+      "name": "liquidate-programmable-speaker",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.74,
+      "in": {
+        "programmable-speaker": 1
+      },
+      "out": {
+        "raw-fish": 15
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "liquidate-pump",
+      "name": "liquidate-pump",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.6,
+      "in": {
+        "pump": 1
+      },
+      "out": {
+        "raw-fish": 13
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "fluid-handling"
+    },
+    {
+      "id": "liquidate-pumpjack",
+      "name": "liquidate-pumpjack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.24,
+      "in": {
+        "pumpjack": 1
+      },
+      "out": {
+        "raw-fish": 48
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "oil-processing"
+    },
+    {
+      "id": "liquidate-radar",
+      "name": "liquidate-radar",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.09,
+      "in": {
+        "radar": 1
+      },
+      "out": {
+        "raw-fish": 20
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-rail",
+      "name": "liquidate-rail",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.1,
+      "in": {
+        "rail": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "railway"
+    },
+    {
+      "id": "liquidate-rail-chain-signal",
+      "name": "liquidate-rail-chain-signal",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.24,
+      "in": {
+        "rail-chain-signal": 1
+      },
+      "out": {
+        "raw-fish": 4
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "rail-signals"
+    },
+    {
+      "id": "liquidate-rail-signal",
+      "name": "liquidate-rail-signal",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.24,
+      "in": {
+        "rail-signal": 1
+      },
+      "out": {
+        "raw-fish": 4
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "rail-signals"
+    },
+    {
+      "id": "liquidate-red-wire",
+      "name": "liquidate-red-wire",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.16,
+      "in": {
+        "red-wire": 1
+      },
+      "out": {
+        "raw-fish": 2
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "circuit-network"
+    },
+    {
+      "id": "liquidate-refined-concrete",
+      "name": "liquidate-refined-concrete",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.0976,
+      "in": {
+        "refined-concrete": 1
+      },
+      "out": {
+        "raw-fish": 2
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "concrete-technology"
+    },
+    {
+      "id": "liquidate-refined-hazard-concrete",
+      "name": "liquidate-refined-hazard-concrete",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.09885,
+      "in": {
+        "refined-hazard-concrete": 1
+      },
+      "out": {
+        "raw-fish": 2
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "concrete-technology"
+    },
+    {
+      "id": "liquidate-repair-pack",
+      "name": "liquidate-repair-pack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.37,
+      "in": {
+        "repair-pack": 1
+      },
+      "out": {
+        "raw-fish": 6
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-roboport",
+      "name": "liquidate-roboport",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 46.93,
+      "in": {
+        "roboport": 1
+      },
+      "out": {
+        "raw-fish": 1157
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistic-robotics"
+    },
+    {
+      "id": "liquidate-rocket",
+      "name": "liquidate-rocket",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.47441666666667,
+      "in": {
+        "rocket": 1
+      },
+      "out": {
+        "raw-fish": 10
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "rocketry"
+    },
+    {
+      "id": "liquidate-rocket-control-unit",
+      "name": "liquidate-rocket-control-unit",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 9.4982944444444,
+      "in": {
+        "rocket-control-unit": 1
+      },
+      "out": {
+        "raw-fish": 322
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "rocket-control-unit-technology"
+    },
+    {
+      "id": "liquidate-rocket-fuel",
+      "name": "liquidate-rocket-fuel",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.4104444444444,
+      "in": {
+        "rocket-fuel": 1
+      },
+      "out": {
+        "raw-fish": 103
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "rocket-fuel-technology"
+    },
+    {
+      "id": "liquidate-rocket-launcher",
+      "name": "liquidate-rocket-launcher",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.08,
+      "in": {
+        "rocket-launcher": 1
+      },
+      "out": {
+        "raw-fish": 20
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "rocketry"
+    },
+    {
+      "id": "liquidate-rocket-part",
+      "name": "liquidate-rocket-part",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 168.97516666667,
+      "in": {
+        "rocket-part": 1
+      },
+      "out": {
+        "raw-fish": 6464
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "rocket-silo-technology"
+    },
+    {
+      "id": "liquidate-rocket-silo",
+      "name": "liquidate-rocket-silo",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1176.9377777778,
+      "in": {
+        "rocket-silo": 1
+      },
+      "out": {
+        "raw-fish": 42473
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "rocket-silo-technology"
+    },
+    {
+      "id": "liquidate-satellite",
+      "name": "liquidate-satellite",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1574.6672222222,
+      "in": {
+        "satellite": 1
+      },
+      "out": {
+        "raw-fish": 63955
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "space-science-pack-technology"
+    },
+    {
+      "id": "liquidate-shotgun",
+      "name": "liquidate-shotgun",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.04,
+      "in": {
+        "shotgun": 1
+      },
+      "out": {
+        "raw-fish": 17
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military"
+    },
+    {
+      "id": "liquidate-shotgun-shell",
+      "name": "liquidate-shotgun-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.13,
+      "in": {
+        "shotgun-shell": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military"
+    },
+    {
+      "id": "liquidate-slowdown-capsule",
+      "name": "liquidate-slowdown-capsule",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.67,
+      "in": {
+        "slowdown-capsule": 1
+      },
+      "out": {
+        "raw-fish": 12
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military-3"
+    },
+    {
+      "id": "liquidate-small-electric-pole",
+      "name": "liquidate-small-electric-pole",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.045,
+      "in": {
+        "small-electric-pole": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-small-lamp",
+      "name": "liquidate-small-lamp",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.23,
+      "in": {
+        "small-lamp": 1
+      },
+      "out": {
+        "raw-fish": 4
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "optics"
+    },
+    {
+      "id": "liquidate-solar-panel",
+      "name": "liquidate-solar-panel",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 2.48,
+      "in": {
+        "solar-panel": 1
+      },
+      "out": {
+        "raw-fish": 47
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "solar-energy"
+    },
+    {
+      "id": "liquidate-solar-panel-equipment",
+      "name": "liquidate-solar-panel-equipment",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.9322222222222,
+      "in": {
+        "solar-panel-equipment": 1
+      },
+      "out": {
+        "raw-fish": 136
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "solar-panel-equipment-technology"
+    },
+    {
+      "id": "liquidate-solid-fuel",
+      "name": "liquidate-solid-fuel",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.50111111111111,
+      "in": {
+        "solid-fuel": 1
+      },
+      "out": {
+        "raw-fish": 7
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-speed-module",
+      "name": "liquidate-speed-module",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.0255555555556,
+      "in": {
+        "speed-module": 1
+      },
+      "out": {
+        "raw-fish": 123
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "speed-module-technology"
+    },
+    {
+      "id": "liquidate-speed-module-2",
+      "name": "liquidate-speed-module-2",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 45.501472222222,
+      "in": {
+        "speed-module-2": 1
+      },
+      "out": {
+        "raw-fish": 1676
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "speed-module-2-technology"
+    },
+    {
+      "id": "liquidate-speed-module-3",
+      "name": "liquidate-speed-module-3",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 253.20661111111,
+      "in": {
+        "speed-module-3": 1
+      },
+      "out": {
+        "raw-fish": 11133
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "speed-module-3-technology"
+    },
+    {
+      "id": "liquidate-spidertron",
+      "name": "liquidate-spidertron",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3116.4294888889,
+      "in": {
+        "spidertron": 1
+      },
+      "out": {
+        "raw-fish": 65535
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "spidertron-technology"
+    },
+    {
+      "id": "liquidate-spidertron-remote",
+      "name": "liquidate-spidertron-remote",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 10.618294444444,
+      "in": {
+        "spidertron-remote": 1
+      },
+      "out": {
+        "raw-fish": 385
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "spidertron-technology"
+    },
+    {
+      "id": "liquidate-splitter",
+      "name": "liquidate-splitter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.91,
+      "in": {
+        "splitter": 1
+      },
+      "out": {
+        "raw-fish": 18
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistics-technology"
+    },
+    {
+      "id": "liquidate-stack-filter-inserter",
+      "name": "liquidate-stack-filter-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.5711111111111,
+      "in": {
+        "stack-filter-inserter": 1
+      },
+      "out": {
+        "raw-fish": 150
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "stack-inserter-technology"
+    },
+    {
+      "id": "liquidate-stack-inserter",
+      "name": "liquidate-stack-inserter",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 3.9911111111111,
+      "in": {
+        "stack-inserter": 1
+      },
+      "out": {
+        "raw-fish": 125
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "stack-inserter-technology"
+    },
+    {
+      "id": "liquidate-steam-engine",
+      "name": "liquidate-steam-engine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.92,
+      "in": {
+        "steam-engine": 1
+      },
+      "out": {
+        "raw-fish": 15
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-steam-turbine",
+      "name": "liquidate-steam-turbine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 4.86,
+      "in": {
+        "steam-turbine": 1
+      },
+      "out": {
+        "raw-fish": 83
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "nuclear-power"
+    },
+    {
+      "id": "liquidate-steel-chest",
+      "name": "liquidate-steel-chest",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.98,
+      "in": {
+        "steel-chest": 1
+      },
+      "out": {
+        "raw-fish": 12
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "steel-processing"
+    },
+    {
+      "id": "liquidate-steel-furnace",
+      "name": "liquidate-steel-furnace",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.97,
+      "in": {
+        "steel-furnace": 1
+      },
+      "out": {
+        "raw-fish": 13
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "advanced-material-processing"
+    },
+    {
+      "id": "liquidate-steel-plate",
+      "name": "liquidate-steel-plate",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.12,
+      "in": {
+        "steel-plate": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "steel-processing"
+    },
+    {
+      "id": "liquidate-stone-furnace",
+      "name": "liquidate-stone-furnace",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.12,
+      "in": {
+        "stone-furnace": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-stone-wall",
+      "name": "liquidate-stone-wall",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.12,
+      "in": {
+        "stone-wall": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "stone-wall-technology"
+    },
+    {
+      "id": "liquidate-storage-tank",
+      "name": "liquidate-storage-tank",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.05,
+      "in": {
+        "storage-tank": 1
+      },
+      "out": {
+        "raw-fish": 15
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "fluid-handling"
+    },
+    {
+      "id": "liquidate-submachine-gun",
+      "name": "liquidate-submachine-gun",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.94,
+      "in": {
+        "submachine-gun": 1
+      },
+      "out": {
+        "raw-fish": 14
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "military"
+    },
+    {
+      "id": "liquidate-substation",
+      "name": "liquidate-substation",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.6455555555556,
+      "in": {
+        "substation": 1
+      },
+      "out": {
+        "raw-fish": 136
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "electric-energy-distribution-2"
+    },
+    {
+      "id": "liquidate-sulfur",
+      "name": "liquidate-sulfur",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.36863333333333,
+      "in": {
+        "sulfur": 1
+      },
+      "out": {
+        "raw-fish": 5
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "sulfur-processing"
+    },
+    {
+      "id": "liquidate-tank",
+      "name": "liquidate-tank",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 28.041111111111,
+      "in": {
+        "tank": 1
+      },
+      "out": {
+        "raw-fish": 785
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "tank-technology"
+    },
+    {
+      "id": "liquidate-train-stop",
+      "name": "liquidate-train-stop",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.2,
+      "in": {
+        "train-stop": 1
+      },
+      "out": {
+        "raw-fish": 24
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "automated-rail-transportation"
+    },
+    {
+      "id": "liquidate-transport-belt",
+      "name": "liquidate-transport-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.055,
+      "in": {
+        "transport-belt": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
+    },
+    {
+      "id": "liquidate-underground-belt",
+      "name": "liquidate-underground-belt",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.2525,
+      "in": {
+        "underground-belt": 1
+      },
+      "out": {
+        "raw-fish": 4
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "logistics-technology"
+    },
+    {
+      "id": "liquidate-uranium-cannon-shell",
+      "name": "liquidate-uranium-cannon-shell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 1.2025277777778,
+      "in": {
+        "uranium-cannon-shell": 1
+      },
+      "out": {
+        "raw-fish": 29
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "uranium-ammo"
+    },
+    {
+      "id": "liquidate-uranium-fuel-cell",
+      "name": "liquidate-uranium-fuel-cell",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.1693,
+      "in": {
+        "uranium-fuel-cell": 1
+      },
+      "out": {
+        "raw-fish": 2
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "uranium-processing-technology"
+    },
+    {
+      "id": "liquidate-uranium-rounds-magazine",
+      "name": "liquidate-uranium-rounds-magazine",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.547,
+      "in": {
+        "uranium-rounds-magazine": 1
+      },
+      "out": {
+        "raw-fish": 10
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "uranium-ammo"
+    },
+    {
+      "id": "liquidate-utility-science-pack",
+      "name": "liquidate-utility-science-pack",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 5.9507148148148,
+      "in": {
+        "utility-science-pack": 1
+      },
+      "out": {
+        "raw-fish": 238
+      },
+      "producers": [
+        "rocket-silo"
+      ],
+      "unlockedBy": "utility-science-pack-technology"
+    },
+    {
+      "id": "liquidate-wooden-chest",
+      "name": "liquidate-wooden-chest",
+      "category": "intermediate-products",
+      "row": 1,
+      "time": 0.06,
+      "in": {
+        "wooden-chest": 1
+      },
+      "out": {
+        "raw-fish": 1
+      },
+      "producers": [
+        "rocket-silo"
+      ]
     }
   ],
   "limitations": {
@@ -14119,7 +20027,338 @@
       "uranium-fuel-cell",
       "uranium-processing",
       "utility-science-pack",
-      "coal-liquefaction-steam-500"
+      "coal-liquefaction-steam-500",
+      "unassemble-refined-concrete",
+      "unassemble-flamethrower-ammo",
+      "unassemble-electric-engine-unit",
+      "unassemble-explosives",
+      "unassemble-plastic-bar",
+      "unassemble-grenade",
+      "unassemble-electronic-circuit",
+      "unassemble-red-wire",
+      "unassemble-small-lamp",
+      "unassemble-constant-combinator",
+      "unassemble-power-switch",
+      "unassemble-decider-combinator",
+      "unassemble-shotgun-shell",
+      "unassemble-piercing-rounds-magazine",
+      "unassemble-piercing-shotgun-shell",
+      "unassemble-big-electric-pole",
+      "unassemble-submachine-gun",
+      "unassemble-gun-turret",
+      "unassemble-low-density-structure",
+      "unassemble-combat-shotgun",
+      "unassemble-heavy-armor",
+      "unassemble-concrete",
+      "unassemble-transport-belt",
+      "unassemble-burner-inserter",
+      "unassemble-underground-belt",
+      "unassemble-pipe-to-ground",
+      "unassemble-pistol",
+      "unassemble-long-handed-inserter",
+      "unassemble-fast-inserter",
+      "unassemble-programmable-speaker",
+      "unassemble-electric-mining-drill",
+      "unassemble-splitter",
+      "unassemble-storage-tank",
+      "unassemble-rocket-launcher",
+      "unassemble-small-electric-pole",
+      "unassemble-sulfur",
+      "unassemble-nuclear-reactor",
+      "unassemble-battery",
+      "unassemble-offshore-pump",
+      "unassemble-pump",
+      "unassemble-steam-engine",
+      "unassemble-pumpjack",
+      "unassemble-steam-turbine",
+      "unassemble-flamethrower-turret",
+      "unassemble-explosive-uranium-cannon-shell",
+      "unassemble-lab",
+      "unassemble-fast-transport-belt",
+      "unassemble-assembling-machine-1",
+      "unassemble-shotgun",
+      "unassemble-fast-underground-belt",
+      "unassemble-chemical-plant",
+      "unassemble-fast-splitter",
+      "unassemble-cargo-wagon",
+      "unassemble-stack-inserter",
+      "unassemble-express-underground-belt",
+      "unassemble-green-wire",
+      "unassemble-inserter",
+      "unassemble-rail-chain-signal",
+      "unassemble-rail-signal",
+      "unassemble-repair-pack",
+      "unassemble-slowdown-capsule",
+      "unassemble-arithmetic-combinator",
+      "unassemble-advanced-circuit",
+      "unassemble-filter-inserter",
+      "unassemble-poison-capsule",
+      "unassemble-radar",
+      "unassemble-train-stop",
+      "unassemble-assembling-machine-2",
+      "unassemble-logistic-chest-buffer",
+      "unassemble-logistic-chest-requester",
+      "unassemble-solar-panel",
+      "unassemble-stack-filter-inserter",
+      "unassemble-rail",
+      "unassemble-land-mine",
+      "unassemble-engine-unit",
+      "unassemble-medium-electric-pole",
+      "unassemble-gate",
+      "unassemble-steel-furnace",
+      "unassemble-explosive-cannon-shell",
+      "unassemble-flamethrower",
+      "unassemble-heat-pipe",
+      "unassemble-heat-exchanger",
+      "unassemble-car",
+      "unassemble-oil-refinery",
+      "unassemble-solar-panel-equipment",
+      "unassemble-battery-equipment",
+      "unassemble-belt-immunity-equipment",
+      "unassemble-energy-shield-equipment",
+      "unassemble-night-vision-equipment",
+      "unassemble-substation",
+      "unassemble-electric-furnace",
+      "unassemble-locomotive",
+      "unassemble-laser-turret",
+      "unassemble-beacon",
+      "unassemble-tank",
+      "unassemble-artillery-wagon",
+      "unassemble-power-armor",
+      "unassemble-boiler",
+      "unassemble-burner-mining-drill",
+      "unassemble-cliff-explosives",
+      "unassemble-rocket",
+      "unassemble-cluster-grenade",
+      "unassemble-cannon-shell",
+      "unassemble-uranium-rounds-magazine",
+      "unassemble-defender-capsule",
+      "unassemble-express-transport-belt",
+      "unassemble-uranium-fuel-cell",
+      "unassemble-explosive-rocket",
+      "unassemble-rocket-fuel",
+      "unassemble-flying-robot-frame",
+      "unassemble-accumulator",
+      "unassemble-logistic-chest-active-provider",
+      "unassemble-logistic-chest-passive-provider",
+      "unassemble-processing-unit",
+      "unassemble-effectivity-module",
+      "unassemble-productivity-module",
+      "unassemble-speed-module",
+      "unassemble-express-splitter",
+      "unassemble-artillery-turret",
+      "unassemble-modular-armor",
+      "unassemble-roboport",
+      "unassemble-personal-roboport-equipment",
+      "unassemble-centrifuge",
+      "unassemble-logistic-chest-storage",
+      "unassemble-exoskeleton-equipment",
+      "unassemble-rocket-silo",
+      "unassemble-uranium-cannon-shell",
+      "unassemble-fluid-wagon",
+      "unassemble-artillery-targeting-remote",
+      "unassemble-artillery-shell",
+      "unassemble-spidertron-remote",
+      "unassemble-distractor-capsule",
+      "unassemble-fusion-reactor-equipment",
+      "unassemble-power-armor-mk2",
+      "unassemble-construction-robot",
+      "unassemble-logistic-robot",
+      "unassemble-rocket-control-unit",
+      "unassemble-speed-module-2",
+      "unassemble-energy-shield-mk2-equipment",
+      "unassemble-personal-laser-defense-equipment",
+      "unassemble-discharge-defense-equipment",
+      "unassemble-effectivity-module-3",
+      "unassemble-productivity-module-3",
+      "unassemble-personal-roboport-mk2-equipment",
+      "unassemble-effectivity-module-2",
+      "unassemble-productivity-module-2",
+      "unassemble-assembling-machine-3",
+      "unassemble-nuclear-fuel",
+      "unassemble-rocket-part",
+      "unassemble-satellite",
+      "unassemble-battery-mk2-equipment",
+      "unassemble-atomic-bomb",
+      "unassemble-spidertron",
+      "unassemble-destroyer-capsule",
+      "unassemble-speed-module-3",
+      "liquidate-accumulator",
+      "liquidate-advanced-circuit",
+      "liquidate-arithmetic-combinator",
+      "liquidate-artillery-shell",
+      "liquidate-artillery-targeting-remote",
+      "liquidate-artillery-turret",
+      "liquidate-artillery-wagon",
+      "liquidate-assembling-machine-1",
+      "liquidate-assembling-machine-2",
+      "liquidate-assembling-machine-3",
+      "liquidate-atomic-bomb",
+      "liquidate-automation-science-pack",
+      "liquidate-battery",
+      "liquidate-battery-equipment",
+      "liquidate-battery-mk2-equipment",
+      "liquidate-beacon",
+      "liquidate-belt-immunity-equipment",
+      "liquidate-big-electric-pole",
+      "liquidate-boiler",
+      "liquidate-burner-inserter",
+      "liquidate-burner-mining-drill",
+      "liquidate-cannon-shell",
+      "liquidate-car",
+      "liquidate-cargo-wagon",
+      "liquidate-centrifuge",
+      "liquidate-chemical-plant",
+      "liquidate-chemical-science-pack",
+      "liquidate-cliff-explosives",
+      "liquidate-cluster-grenade",
+      "liquidate-combat-shotgun",
+      "liquidate-concrete",
+      "liquidate-constant-combinator",
+      "liquidate-construction-robot",
+      "liquidate-decider-combinator",
+      "liquidate-defender-capsule",
+      "liquidate-destroyer-capsule",
+      "liquidate-discharge-defense-equipment",
+      "liquidate-discharge-defense-remote",
+      "liquidate-distractor-capsule",
+      "liquidate-effectivity-module",
+      "liquidate-effectivity-module-2",
+      "liquidate-effectivity-module-3",
+      "liquidate-electric-engine-unit",
+      "liquidate-electric-furnace",
+      "liquidate-electric-mining-drill",
+      "liquidate-electronic-circuit",
+      "liquidate-energy-shield-equipment",
+      "liquidate-energy-shield-mk2-equipment",
+      "liquidate-engine-unit",
+      "liquidate-exoskeleton-equipment",
+      "liquidate-explosive-cannon-shell",
+      "liquidate-explosive-rocket",
+      "liquidate-explosive-uranium-cannon-shell",
+      "liquidate-explosives",
+      "liquidate-express-splitter",
+      "liquidate-express-transport-belt",
+      "liquidate-express-underground-belt",
+      "liquidate-fast-inserter",
+      "liquidate-fast-splitter",
+      "liquidate-fast-transport-belt",
+      "liquidate-fast-underground-belt",
+      "liquidate-filter-inserter",
+      "liquidate-firearm-magazine",
+      "liquidate-flamethrower",
+      "liquidate-flamethrower-ammo",
+      "liquidate-flamethrower-turret",
+      "liquidate-fluid-wagon",
+      "liquidate-flying-robot-frame",
+      "liquidate-fusion-reactor-equipment",
+      "liquidate-gate",
+      "liquidate-green-wire",
+      "liquidate-grenade",
+      "liquidate-gun-turret",
+      "liquidate-hazard-concrete",
+      "liquidate-heat-exchanger",
+      "liquidate-heat-pipe",
+      "liquidate-heavy-armor",
+      "liquidate-inserter",
+      "liquidate-iron-chest",
+      "liquidate-iron-gear-wheel",
+      "liquidate-lab",
+      "liquidate-land-mine",
+      "liquidate-landfill",
+      "liquidate-laser-turret",
+      "liquidate-light-armor",
+      "liquidate-locomotive",
+      "liquidate-logistic-chest-active-provider",
+      "liquidate-logistic-chest-buffer",
+      "liquidate-logistic-chest-passive-provider",
+      "liquidate-logistic-chest-requester",
+      "liquidate-logistic-chest-storage",
+      "liquidate-logistic-robot",
+      "liquidate-logistic-science-pack",
+      "liquidate-long-handed-inserter",
+      "liquidate-low-density-structure",
+      "liquidate-medium-electric-pole",
+      "liquidate-military-science-pack",
+      "liquidate-modular-armor",
+      "liquidate-night-vision-equipment",
+      "liquidate-nuclear-fuel",
+      "liquidate-nuclear-reactor",
+      "liquidate-offshore-pump",
+      "liquidate-oil-refinery",
+      "liquidate-personal-laser-defense-equipment",
+      "liquidate-personal-roboport-equipment",
+      "liquidate-personal-roboport-mk2-equipment",
+      "liquidate-piercing-rounds-magazine",
+      "liquidate-piercing-shotgun-shell",
+      "liquidate-pipe",
+      "liquidate-pipe-to-ground",
+      "liquidate-pistol",
+      "liquidate-plastic-bar",
+      "liquidate-poison-capsule",
+      "liquidate-power-armor",
+      "liquidate-power-armor-mk2",
+      "liquidate-power-switch",
+      "liquidate-processing-unit",
+      "liquidate-production-science-pack",
+      "liquidate-productivity-module",
+      "liquidate-productivity-module-2",
+      "liquidate-productivity-module-3",
+      "liquidate-programmable-speaker",
+      "liquidate-pump",
+      "liquidate-pumpjack",
+      "liquidate-radar",
+      "liquidate-rail",
+      "liquidate-rail-chain-signal",
+      "liquidate-rail-signal",
+      "liquidate-red-wire",
+      "liquidate-refined-concrete",
+      "liquidate-refined-hazard-concrete",
+      "liquidate-repair-pack",
+      "liquidate-roboport",
+      "liquidate-rocket",
+      "liquidate-rocket-control-unit",
+      "liquidate-rocket-fuel",
+      "liquidate-rocket-launcher",
+      "liquidate-rocket-part",
+      "liquidate-rocket-silo",
+      "liquidate-satellite",
+      "liquidate-shotgun",
+      "liquidate-shotgun-shell",
+      "liquidate-slowdown-capsule",
+      "liquidate-small-electric-pole",
+      "liquidate-small-lamp",
+      "liquidate-solar-panel",
+      "liquidate-solar-panel-equipment",
+      "liquidate-solid-fuel",
+      "liquidate-speed-module",
+      "liquidate-speed-module-2",
+      "liquidate-speed-module-3",
+      "liquidate-spidertron",
+      "liquidate-spidertron-remote",
+      "liquidate-splitter",
+      "liquidate-stack-filter-inserter",
+      "liquidate-stack-inserter",
+      "liquidate-steam-engine",
+      "liquidate-steam-turbine",
+      "liquidate-steel-chest",
+      "liquidate-steel-furnace",
+      "liquidate-steel-plate",
+      "liquidate-stone-furnace",
+      "liquidate-stone-wall",
+      "liquidate-storage-tank",
+      "liquidate-submachine-gun",
+      "liquidate-substation",
+      "liquidate-sulfur",
+      "liquidate-tank",
+      "liquidate-train-stop",
+      "liquidate-transport-belt",
+      "liquidate-underground-belt",
+      "liquidate-uranium-cannon-shell",
+      "liquidate-uranium-fuel-cell",
+      "liquidate-uranium-rounds-magazine",
+      "liquidate-utility-science-pack",
+      "liquidate-wooden-chest"
     ]
   },
   "defaults": {
